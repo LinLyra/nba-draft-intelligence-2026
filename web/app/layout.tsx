@@ -19,7 +19,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
                 <span className="text-xs uppercase tracking-[0.25em] text-amber-400">
                   DIS 2026
                 </span>
-                <span className="font-display text-xl font-semibold text-white">
+                <span className="font-display text-xl font-bold text-white">
                   Draft Intelligence
                 </span>
               </Link>
@@ -30,7 +30,7 @@ export default function RootLayout({ children }: { children: React.ReactNode }) 
         </header>
         <main className="mx-auto max-w-7xl px-4 py-8">{children}</main>
         <footer className="border-t border-line py-8 text-center text-sm text-gray-500">
-          NBA Draft Intelligence System · Probabilistic forecasting framework
+          NBA Draft Intelligence System · <span className="font-signature text-lg text-amber-400/80">LLyra</span>
         </footer>
       </body>
     </html>

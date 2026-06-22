@@ -11,7 +11,8 @@ const config: Config = {
         line: "#1f2937",
       },
       fontFamily: {
-        display: ["Georgia", "serif"],
+        display: ["Syne", "system-ui", "sans-serif"],
+        signature: ["Caveat", "cursive"],
         sans: ["Inter", "system-ui", "sans-serif"],
       },
     },

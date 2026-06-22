@@ -7,9 +7,7 @@ const NAV = [
   { href: "/", label: "Board" },
   { href: "/simulator", label: "Simulator" },
   { href: "/volatility", label: "Volatility" },
-  { href: "/sources", label: "Sources" },
   { href: "/methodology", label: "Methodology" },
-  { href: "/about", label: "About" },
 ];
 
 function navClass(active: boolean, mobile = false) {

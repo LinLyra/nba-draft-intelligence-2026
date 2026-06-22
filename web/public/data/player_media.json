@@ -66,7 +66,10 @@
     "player": "Braden Smith",
     "slug": "braden-smith",
     "school": "Purdue",
-    "school_slug": "purdue"
+    "school_slug": "purdue",
+    "espn_id": "5105854",
+    "headshot_url": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5105854.png",
+    "espn_team": "Purdue Boilermakers"
   },
   {
     "player": "Brayden Burries",
@@ -93,6 +96,50 @@
     "espn_id": "4565698",
     "headshot_url": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4565698.png",
     "espn_team": "St. John's Red Storm"
+  },
+  {
+    "player": "Caleb Wilson",
+    "slug": "caleb-wilson",
+    "school": "North Carolina",
+    "school_slug": "north-carolina",
+    "espn_id": "5095151",
+    "headshot_url": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5095151.png",
+    "espn_team": "North Carolina Tar Heels"
+  },
+  {
+    "player": "Cameron Boozer",
+    "slug": "cameron-boozer",
+    "school": "Duke",
+    "school_slug": "duke",
+    "espn_id": "5041935",
+    "headshot_url": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5041935.png",
+    "espn_team": "Duke Blue Devils"
+  },
+  {
+    "player": "Cameron Carr",
+    "slug": "cameron-carr",
+    "school": "Baylor",
+    "school_slug": "baylor",
+    "espn_id": "5113969",
+    "headshot_url": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5113969.png",
+    "espn_team": "Baylor Bears"
+  },
+  {
+    "player": "Chris Cenac Jr.",
+    "slug": "chris-cenac-jr",
+    "school": null,
+    "espn_id": "5142621",
+    "headshot_url": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5142621.png",
+    "espn_team": "Houston Cougars"
+  },
+  {
+    "player": "Christian Anderson",
+    "slug": "christian-anderson",
+    "school": "Texas Tech",
+    "school_slug": "texas-tech",
+    "espn_id": "5060701",
+    "headshot_url": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5060701.png",
+    "espn_team": "Texas Tech Red Raiders"
   },
   {
     "player": "Dailyn Swain",
@@ -125,7 +172,10 @@
     "player": "Darryn Peterson",
     "slug": "darryn-peterson",
     "school": "Kansas",
-    "school_slug": "kansas"
+    "school_slug": "kansas",
+    "espn_id": "5041955",
+    "headshot_url": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5041955.png",
+    "espn_team": "Kansas Jayhawks"
   },
   {
     "player": "Dillon Mitchell",
@@ -301,6 +351,11 @@
     "espn_team": "Alabama Crimson Tide"
   },
   {
+    "player": "Maleek Thomas",
+    "slug": "maleek-thomas",
+    "school": null
+  },
+  {
     "player": "Malik Reneau",
     "slug": "malik-reneau",
     "school": "Miami",
@@ -448,10 +503,31 @@
     "espn_team": "NC State Wolfpack"
   },
   {
+    "player": "Quadir Copeland",
+    "slug": "quadir-copeland",
+    "school": "NC State",
+    "school_slug": "nc-state",
+    "espn_id": "4683860",
+    "headshot_url": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4683860.png",
+    "espn_team": "NC State Wolfpack"
+  },
+  {
     "player": "Rafael",
     "slug": "rafael",
     "school": "George Washington",
-    "school_slug": "george-washington"
+    "school_slug": "george-washington",
+    "espn_id": "4684443",
+    "headshot_url": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4684443.png",
+    "espn_team": "George Washington Revolutionaries"
+  },
+  {
+    "player": "Rafael Castro",
+    "slug": "rafael-castro",
+    "school": "George Washington",
+    "school_slug": "george-washington",
+    "espn_id": "4684443",
+    "headshot_url": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4684443.png",
+    "espn_team": "George Washington Revolutionaries"
   },
   {
     "player": "Richie Saunders",
@@ -467,6 +543,15 @@
     "slug": "ryan",
     "school": "Louisville",
     "school_slug": "louisville"
+  },
+  {
+    "player": "Ryan Conwell",
+    "slug": "ryan-conwell",
+    "school": "Louisville",
+    "school_slug": "louisville",
+    "espn_id": "5107157",
+    "headshot_url": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5107157.png",
+    "espn_team": "Louisville Cardinals"
   },
   {
     "player": "Sergio de Larrea",
