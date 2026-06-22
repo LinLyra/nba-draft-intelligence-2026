@@ -1,0 +1,593 @@
+[
+  {
+    "player": "AJ Dybantsa",
+    "slug": "aj-dybantsa",
+    "school": "BYU",
+    "school_slug": "byu",
+    "espn_id": "5142718",
+    "headshot_url": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5142718.png",
+    "espn_team": "BYU Cougars"
+  },
+  {
+    "player": "Aaron Nkrumah",
+    "slug": "aaron-nkrumah",
+    "school": "Tennessee State",
+    "school_slug": "tennessee-state",
+    "espn_id": "5182573",
+    "headshot_url": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5182573.png",
+    "espn_team": "Tennessee State Tigers"
+  },
+  {
+    "player": "Aday Mara",
+    "slug": "aday-mara",
+    "school": "Michigan",
+    "school_slug": "michigan",
+    "espn_id": "5174983",
+    "headshot_url": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5174983.png",
+    "espn_team": "Michigan Wolverines"
+  },
+  {
+    "player": "Alex Karaban",
+    "slug": "alex-karaban",
+    "school": "UConn",
+    "school_slug": "uconn",
+    "espn_id": "4917149",
+    "headshot_url": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4917149.png",
+    "espn_team": "UConn Huskies"
+  },
+  {
+    "player": "Allen Graves",
+    "slug": "allen-graves",
+    "school": "Santa Clara",
+    "school_slug": "santa-clara",
+    "espn_id": "5149115",
+    "headshot_url": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5149115.png",
+    "espn_team": "Santa Clara Broncos"
+  },
+  {
+    "player": "Baba Miller",
+    "slug": "baba-miller",
+    "school": "Cincinnati",
+    "school_slug": "cincinnati",
+    "espn_id": "5075626",
+    "headshot_url": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5075626.png",
+    "espn_team": "Cincinnati Bearcats"
+  },
+  {
+    "player": "Bennett Stirtz",
+    "slug": "bennett-stirtz",
+    "school": "Iowa",
+    "school_slug": "iowa",
+    "espn_id": "5241364",
+    "headshot_url": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5241364.png",
+    "espn_team": "Iowa Hawkeyes"
+  },
+  {
+    "player": "Braden Smith",
+    "slug": "braden-smith",
+    "school": "Purdue",
+    "school_slug": "purdue"
+  },
+  {
+    "player": "Brayden Burries",
+    "slug": "brayden-burries",
+    "school": "Arizona",
+    "school_slug": "arizona",
+    "espn_id": "5082206",
+    "headshot_url": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5082206.png",
+    "espn_team": "Arizona Wildcats"
+  },
+  {
+    "player": "Bruce Thornton",
+    "slug": "bruce-thornton",
+    "school": "Ohio State",
+    "school_slug": "ohio-state",
+    "espn_id": "5105837",
+    "headshot_url": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5105837.png",
+    "espn_team": "Ohio State Buckeyes"
+  },
+  {
+    "player": "Bryce Hopkins",
+    "slug": "bryce-hopkins",
+    "school": null,
+    "espn_id": "4565698",
+    "headshot_url": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4565698.png",
+    "espn_team": "St. John's Red Storm"
+  },
+  {
+    "player": "Dailyn Swain",
+    "slug": "dailyn-swain",
+    "school": "Texas",
+    "school_slug": "texas",
+    "espn_id": "4848625",
+    "headshot_url": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4848625.png",
+    "espn_team": "Texas Longhorns"
+  },
+  {
+    "player": "Darius Acuff Jr.",
+    "slug": "darius-acuff-jr",
+    "school": "Arkansas",
+    "school_slug": "arkansas",
+    "espn_id": "5142620",
+    "headshot_url": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5142620.png",
+    "espn_team": "Arkansas Razorbacks"
+  },
+  {
+    "player": "Darrion Williams",
+    "slug": "darrion-williams",
+    "school": "NC State",
+    "school_slug": "nc-state",
+    "espn_id": "4937074",
+    "headshot_url": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4937074.png",
+    "espn_team": "NC State Wolfpack"
+  },
+  {
+    "player": "Darryn Peterson",
+    "slug": "darryn-peterson",
+    "school": "Kansas",
+    "school_slug": "kansas"
+  },
+  {
+    "player": "Dillon Mitchell",
+    "slug": "dillon-mitchell",
+    "school": null,
+    "espn_id": "5106283",
+    "headshot_url": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5106283.png",
+    "espn_team": "St. John's Red Storm"
+  },
+  {
+    "player": "Ebuka Okorie",
+    "slug": "ebuka-okorie",
+    "school": "Stanford",
+    "school_slug": "stanford",
+    "espn_id": "5258459",
+    "headshot_url": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5258459.png",
+    "espn_team": "Stanford Cardinal"
+  },
+  {
+    "player": "Emanuel Sharp",
+    "slug": "emanuel-sharp",
+    "school": "Houston",
+    "school_slug": "houston",
+    "espn_id": "5106058",
+    "headshot_url": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5106058.png",
+    "espn_team": "Houston Cougars"
+  },
+  {
+    "player": "Felix Okpara",
+    "slug": "felix-okpara",
+    "school": "Tennessee",
+    "school_slug": "tennessee",
+    "espn_id": "5105841",
+    "headshot_url": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5105841.png",
+    "espn_team": "Tennessee Volunteers"
+  },
+  {
+    "player": "Hannes Steinbach",
+    "slug": "hannes-steinbach",
+    "school": "Washington",
+    "school_slug": "washington",
+    "espn_id": "5281370",
+    "headshot_url": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5281370.png",
+    "espn_team": "Washington Huskies"
+  },
+  {
+    "player": "Henri Veesaar",
+    "slug": "henri-veesaar",
+    "school": "North Carolina",
+    "school_slug": "north-carolina",
+    "espn_id": "5105571",
+    "headshot_url": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5105571.png",
+    "espn_team": "North Carolina Tar Heels"
+  },
+  {
+    "player": "Isaiah Evans",
+    "slug": "isaiah-evans",
+    "school": "Duke",
+    "school_slug": "duke",
+    "espn_id": "5061585",
+    "headshot_url": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5061585.png",
+    "espn_team": "Duke Blue Devils"
+  },
+  {
+    "player": "Izaiyah Nelson",
+    "slug": "izaiyah-nelson",
+    "school": "South Florida",
+    "school_slug": "south-florida",
+    "espn_id": "5107251",
+    "headshot_url": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5107251.png",
+    "espn_team": "South Florida Bulls"
+  },
+  {
+    "player": "Ja'Kobi Gillespie",
+    "slug": "ja-kobi-gillespie",
+    "school": "Tennessee",
+    "school_slug": "tennessee",
+    "espn_id": "5107968",
+    "headshot_url": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5107968.png",
+    "espn_team": "Tennessee Volunteers"
+  },
+  {
+    "player": "Jack Kayil",
+    "slug": "jack-kayil",
+    "school": "Alba Berlin",
+    "school_slug": "alba-berlin"
+  },
+  {
+    "player": "Jaden Bradley",
+    "slug": "jaden-bradley",
+    "school": "Arizona",
+    "school_slug": "arizona",
+    "espn_id": "4432737",
+    "headshot_url": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4432737.png",
+    "espn_team": "Arizona Wildcats"
+  },
+  {
+    "player": "Jayden Quaintance",
+    "slug": "jayden-quaintance",
+    "school": "Kentucky",
+    "school_slug": "kentucky",
+    "espn_id": "5101845",
+    "headshot_url": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5101845.png",
+    "espn_team": "Kentucky Wildcats"
+  },
+  {
+    "player": "Joshua Jefferson",
+    "slug": "joshua-jefferson",
+    "school": "Iowa State",
+    "school_slug": "iowa-state",
+    "espn_id": "4870564",
+    "headshot_url": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4870564.png",
+    "espn_team": "Iowa State Cyclones"
+  },
+  {
+    "player": "Karim L\u00f3pez",
+    "slug": "karim-l-pez",
+    "school": "New Zealand",
+    "school_slug": "new-zealand"
+  },
+  {
+    "player": "Keaton Wagler",
+    "slug": "keaton-wagler",
+    "school": "Illinois",
+    "school_slug": "illinois",
+    "espn_id": "5254165",
+    "headshot_url": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5254165.png",
+    "espn_team": "Illinois Fighting Illini"
+  },
+  {
+    "player": "Keyshawn Hall",
+    "slug": "keyshawn-hall",
+    "school": "Auburn",
+    "school_slug": "auburn",
+    "espn_id": "5075625",
+    "headshot_url": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5075625.png",
+    "espn_team": "Auburn Tigers"
+  },
+  {
+    "player": "Kingston Flemings",
+    "slug": "kingston-flemings",
+    "school": "Houston",
+    "school_slug": "houston",
+    "espn_id": "5149077",
+    "headshot_url": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5149077.png",
+    "espn_team": "Houston Cougars"
+  },
+  {
+    "player": "Koa Peat",
+    "slug": "koa-peat",
+    "school": "Arizona",
+    "school_slug": "arizona",
+    "espn_id": "5041953",
+    "headshot_url": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5041953.png",
+    "espn_team": "Arizona Wildcats"
+  },
+  {
+    "player": "Kylan Boswell",
+    "slug": "kylan-boswell",
+    "school": "Illinois",
+    "school_slug": "illinois",
+    "espn_id": "4684269",
+    "headshot_url": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4684269.png",
+    "espn_team": "Illinois Fighting Illini"
+  },
+  {
+    "player": "Labaron Philon Jr.",
+    "slug": "labaron-philon-jr",
+    "school": "Alabama",
+    "school_slug": "alabama",
+    "espn_id": "4873090",
+    "headshot_url": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4873090.png",
+    "espn_team": "Alabama Crimson Tide"
+  },
+  {
+    "player": "Malik Reneau",
+    "slug": "malik-reneau",
+    "school": "Miami",
+    "school_slug": "miami",
+    "espn_id": "5105798",
+    "headshot_url": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5105798.png",
+    "espn_team": "Miami Hurricanes"
+  },
+  {
+    "player": "Maliq Brown",
+    "slug": "maliq-brown",
+    "school": "Duke",
+    "school_slug": "duke",
+    "espn_id": "5105337",
+    "headshot_url": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5105337.png",
+    "espn_team": "Duke Blue Devils"
+  },
+  {
+    "player": "Mark Mitchell",
+    "slug": "mark-mitchell",
+    "school": "Missouri",
+    "school_slug": "missouri",
+    "espn_id": "4433285",
+    "headshot_url": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4433285.png",
+    "espn_team": "Missouri Tigers"
+  },
+  {
+    "player": "Meleek Thomas",
+    "slug": "meleek-thomas",
+    "school": "Arkansas",
+    "school_slug": "arkansas",
+    "espn_id": "5041951",
+    "headshot_url": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5041951.png",
+    "espn_team": "Arkansas Razorbacks"
+  },
+  {
+    "player": "Michael Ajayi",
+    "slug": "michael-ajayi",
+    "school": "Butler",
+    "school_slug": "butler",
+    "espn_id": "5176517",
+    "headshot_url": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5176517.png",
+    "espn_team": "Butler Bulldogs"
+  },
+  {
+    "player": "Mikel Brown Jr.",
+    "slug": "mikel-brown-jr",
+    "school": "Louisville",
+    "school_slug": "louisville",
+    "espn_id": "5101761",
+    "headshot_url": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5101761.png",
+    "espn_team": "Louisville Cardinals"
+  },
+  {
+    "player": "Milos Uzan",
+    "slug": "milos-uzan",
+    "school": "Houston",
+    "school_slug": "houston",
+    "espn_id": "5106272",
+    "headshot_url": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5106272.png",
+    "espn_team": "Houston Cougars"
+  },
+  {
+    "player": "Morez Johnson Jr.",
+    "slug": "morez-johnson-jr",
+    "school": "Michigan",
+    "school_slug": "michigan",
+    "espn_id": "4873153",
+    "headshot_url": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4873153.png",
+    "espn_team": "Michigan Wolverines"
+  },
+  {
+    "player": "Nate Ament",
+    "slug": "nate-ament",
+    "school": "Tennessee",
+    "school_slug": "tennessee",
+    "espn_id": "5164559",
+    "headshot_url": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5164559.png",
+    "espn_team": "Tennessee Volunteers"
+  },
+  {
+    "player": "Nate Bittle",
+    "slug": "nate-bittle",
+    "school": "Oregon",
+    "school_slug": "oregon",
+    "espn_id": "4432586",
+    "headshot_url": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4432586.png",
+    "espn_team": "Oregon Ducks"
+  },
+  {
+    "player": "Nick Boyd",
+    "slug": "nick-boyd",
+    "school": "Wisconsin",
+    "school_slug": "wisconsin",
+    "espn_id": "4702654",
+    "headshot_url": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4702654.png",
+    "espn_team": "Wisconsin Badgers"
+  },
+  {
+    "player": "Nick Martinelli",
+    "slug": "nick-martinelli",
+    "school": "Northwestern",
+    "school_slug": "northwestern",
+    "espn_id": "5105832",
+    "headshot_url": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5105832.png",
+    "espn_team": "Northwestern Wildcats"
+  },
+  {
+    "player": "Noam Yaacov",
+    "slug": "noam-yaacov",
+    "school": "BC Oostende",
+    "school_slug": "bc-oostende"
+  },
+  {
+    "player": "Otega Oweh",
+    "slug": "otega-oweh",
+    "school": "Kentucky",
+    "school_slug": "kentucky",
+    "espn_id": "5106270",
+    "headshot_url": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5106270.png",
+    "espn_team": "Kentucky Wildcats"
+  },
+  {
+    "player": "Pavle Backo",
+    "slug": "pavle-backo",
+    "school": "KK Mega Basket",
+    "school_slug": "kk-mega-basket"
+  },
+  {
+    "player": "Peter Suder",
+    "slug": "peter-suder",
+    "school": "Miami (Ohio)",
+    "school_slug": "miami-ohio",
+    "espn_id": "5106674",
+    "headshot_url": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5106674.png",
+    "espn_team": "Miami (OH) RedHawks"
+  },
+  {
+    "player": "Quadir",
+    "slug": "quadir",
+    "school": "NC State",
+    "school_slug": "nc-state",
+    "espn_id": "4683860",
+    "headshot_url": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4683860.png",
+    "espn_team": "NC State Wolfpack"
+  },
+  {
+    "player": "Rafael",
+    "slug": "rafael",
+    "school": "George Washington",
+    "school_slug": "george-washington"
+  },
+  {
+    "player": "Richie Saunders",
+    "slug": "richie-saunders",
+    "school": "BYU",
+    "school_slug": "byu",
+    "espn_id": "5105462",
+    "headshot_url": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5105462.png",
+    "espn_team": "BYU Cougars"
+  },
+  {
+    "player": "Ryan",
+    "slug": "ryan",
+    "school": "Louisville",
+    "school_slug": "louisville"
+  },
+  {
+    "player": "Sergio de Larrea",
+    "slug": "sergio-de-larrea",
+    "school": "Valencia",
+    "school_slug": "valencia"
+  },
+  {
+    "player": "Tamin Lipsey",
+    "slug": "tamin-lipsey",
+    "school": "Iowa State",
+    "school_slug": "iowa-state",
+    "espn_id": "5106254",
+    "headshot_url": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5106254.png",
+    "espn_team": "Iowa State Cyclones"
+  },
+  {
+    "player": "Tarris Reed Jr.",
+    "slug": "tarris-reed-jr",
+    "school": "UConn",
+    "school_slug": "uconn",
+    "espn_id": "5105809",
+    "headshot_url": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5105809.png",
+    "espn_team": "UConn Huskies"
+  },
+  {
+    "player": "Tobe Awaka",
+    "slug": "tobe-awaka",
+    "school": "Arizona",
+    "school_slug": "arizona",
+    "espn_id": "5105555",
+    "headshot_url": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5105555.png",
+    "espn_team": "Arizona Wildcats"
+  },
+  {
+    "player": "Tobi Lawal",
+    "slug": "tobi-lawal",
+    "school": "Virginia Tech",
+    "school_slug": "virginia-tech",
+    "espn_id": "5106040",
+    "headshot_url": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5106040.png",
+    "espn_team": "Virginia Tech Hokies"
+  },
+  {
+    "player": "Trevon Brazile",
+    "slug": "trevon-brazile",
+    "school": "Arkansas",
+    "school_slug": "arkansas",
+    "espn_id": "4698719",
+    "headshot_url": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4698719.png",
+    "espn_team": "Arkansas Razorbacks"
+  },
+  {
+    "player": "Trey Kaufman-Renn",
+    "slug": "trey-kaufman-renn",
+    "school": "Purdue",
+    "school_slug": "purdue",
+    "espn_id": "4897438",
+    "headshot_url": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4897438.png",
+    "espn_team": "Purdue Boilermakers"
+  },
+  {
+    "player": "Tucker DeVries",
+    "slug": "tucker-devries",
+    "school": "Indiana",
+    "school_slug": "indiana",
+    "espn_id": "4837238",
+    "headshot_url": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4837238.png",
+    "espn_team": "Indiana Hoosiers"
+  },
+  {
+    "player": "Tyler Bilodeau",
+    "slug": "tyler-bilodeau",
+    "school": "UCLA",
+    "school_slug": "ucla",
+    "espn_id": "5105626",
+    "headshot_url": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5105626.png",
+    "espn_team": "UCLA Bruins"
+  },
+  {
+    "player": "Tyler Nickel",
+    "slug": "tyler-nickel",
+    "school": "Vanderbilt",
+    "school_slug": "vanderbilt",
+    "espn_id": "4838721",
+    "headshot_url": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/4838721.png",
+    "espn_team": "Vanderbilt Commodores"
+  },
+  {
+    "player": "Ugonna Onyenso",
+    "slug": "ugonna-onyenso",
+    "school": "Virginia",
+    "school_slug": "virginia",
+    "espn_id": "5037878",
+    "headshot_url": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5037878.png",
+    "espn_team": "Virginia Cavaliers"
+  },
+  {
+    "player": "Xaivian Lee",
+    "slug": "xaivian-lee",
+    "school": "Florida",
+    "school_slug": "florida",
+    "espn_id": "5107169",
+    "headshot_url": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5107169.png",
+    "espn_team": "Florida Gators"
+  },
+  {
+    "player": "Yaxel Lendeborg",
+    "slug": "yaxel-lendeborg",
+    "school": "Michigan",
+    "school_slug": "michigan",
+    "espn_id": "5175737",
+    "headshot_url": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5175737.png",
+    "espn_team": "Michigan Wolverines"
+  },
+  {
+    "player": "Zuby Ejiofor",
+    "slug": "zuby-ejiofor",
+    "school": null,
+    "espn_id": "5106262",
+    "headshot_url": "https://a.espncdn.com/i/headshots/mens-college-basketball/players/full/5106262.png",
+    "espn_team": "St. John's Red Storm"
+  }
+]

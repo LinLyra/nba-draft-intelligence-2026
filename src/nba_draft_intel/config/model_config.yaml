@@ -1,0 +1,11 @@
+weights:
+  prospect_value: 0.35
+  team_fit: 0.25
+  mock_consensus: 0.30
+  availability: 0.10
+  trade_risk_penalty: 0.10
+simulation:
+  n_runs: 10000
+  random_seed: 42
+ranking:
+  top_n_first_round: 30

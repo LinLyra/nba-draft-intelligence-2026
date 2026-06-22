@@ -1,0 +1,1028 @@
+[
+  {
+    "source": "athletic",
+    "pick": 6,
+    "team": "",
+    "player": "Isaiah Evans"
+  },
+  {
+    "source": "athletic",
+    "pick": 20,
+    "team": "",
+    "player": "AJ Dybantsa"
+  },
+  {
+    "source": "bleacher",
+    "pick": 1,
+    "team": "Wizards",
+    "player": "AJ Dybantsa"
+  },
+  {
+    "source": "bleacher",
+    "pick": 2,
+    "team": "Kings",
+    "player": "Mikel Brown Jr."
+  },
+  {
+    "source": "bleacher",
+    "pick": 4,
+    "team": "Thunder",
+    "player": "Aday Mara"
+  },
+  {
+    "source": "bleacher",
+    "pick": 5,
+    "team": "Clippers",
+    "player": "Keaton Wagler"
+  },
+  {
+    "source": "bleacher",
+    "pick": 6,
+    "team": "Nets",
+    "player": "Darius Acuff Jr."
+  },
+  {
+    "source": "bleacher",
+    "pick": 9,
+    "team": "Mavericks",
+    "player": "Brayden Burries"
+  },
+  {
+    "source": "bleacher",
+    "pick": 10,
+    "team": "Bucks",
+    "player": "Nate Ament"
+  },
+  {
+    "source": "bleacher",
+    "pick": 11,
+    "team": "Warriors",
+    "player": "Karim López"
+  },
+  {
+    "source": "bleacher",
+    "pick": 13,
+    "team": "Heat",
+    "player": "Cameron Carr"
+  },
+  {
+    "source": "bleacher",
+    "pick": 14,
+    "team": "Hornets",
+    "player": "Yaxel Lendeborg"
+  },
+  {
+    "source": "bleacher",
+    "pick": 15,
+    "team": "Bulls",
+    "player": "Christian Anderson"
+  },
+  {
+    "source": "bleacher",
+    "pick": 17,
+    "team": "Thunder",
+    "player": "Morez Johnson Jr."
+  },
+  {
+    "source": "bleacher",
+    "pick": 18,
+    "team": "Raptors",
+    "player": "Labaron Philon Jr."
+  },
+  {
+    "source": "bleacher",
+    "pick": 20,
+    "team": "Spurs",
+    "player": "Allen Graves"
+  },
+  {
+    "source": "bleacher",
+    "pick": 22,
+    "team": "76ers",
+    "player": "Chris Cenac Jr."
+  },
+  {
+    "source": "bleacher",
+    "pick": 23,
+    "team": "Hawks",
+    "player": "Jayden Quaintance"
+  },
+  {
+    "source": "bleacher",
+    "pick": 25,
+    "team": "Lakers",
+    "player": "Dailyn Swain"
+  },
+  {
+    "source": "bleacher",
+    "pick": 26,
+    "team": "Nuggets",
+    "player": "Tarris Reed Jr."
+  },
+  {
+    "source": "bleacher",
+    "pick": 27,
+    "team": "Celtics",
+    "player": "Koa Peat"
+  },
+  {
+    "source": "bleacher",
+    "pick": 28,
+    "team": "Pistons",
+    "player": "Isaiah Evans"
+  },
+  {
+    "source": "bleacher",
+    "pick": 30,
+    "team": "Mavericks",
+    "player": "Henri Veesaar"
+  },
+  {
+    "source": "bleacher",
+    "pick": 32,
+    "team": "Grizzlies",
+    "player": "Joshua Jefferson"
+  },
+  {
+    "source": "cbs_final",
+    "pick": 1,
+    "team": "Wizards",
+    "player": "AJ Dybantsa"
+  },
+  {
+    "source": "cbs_final",
+    "pick": 2,
+    "team": "Jazz",
+    "player": "Darryn Peterson"
+  },
+  {
+    "source": "cbs_final",
+    "pick": 3,
+    "team": "Grizzlies",
+    "player": "Cameron Boozer"
+  },
+  {
+    "source": "cbs_final",
+    "pick": 4,
+    "team": "Bulls",
+    "player": "Caleb Wilson"
+  },
+  {
+    "source": "cbs_final",
+    "pick": 5,
+    "team": "Clippers",
+    "player": "Keaton Wagler"
+  },
+  {
+    "source": "cbs_final",
+    "pick": 6,
+    "team": "Nets",
+    "player": "Darius Acuff Jr."
+  },
+  {
+    "source": "cbs_final",
+    "pick": 7,
+    "team": "Kings",
+    "player": "Mikel Brown Jr."
+  },
+  {
+    "source": "cbs_final",
+    "pick": 8,
+    "team": "Hawks",
+    "player": "Kingston Flemings"
+  },
+  {
+    "source": "cbs_final",
+    "pick": 9,
+    "team": "Mavericks",
+    "player": "Brayden Burries"
+  },
+  {
+    "source": "cbs_final",
+    "pick": 10,
+    "team": "Bucks",
+    "player": "Nate Ament"
+  },
+  {
+    "source": "cbs_final",
+    "pick": 11,
+    "team": "Warriors",
+    "player": "Yaxel Lendeborg"
+  },
+  {
+    "source": "cbs_final",
+    "pick": 12,
+    "team": "Thunder",
+    "player": "Aday Mara"
+  },
+  {
+    "source": "cbs_final",
+    "pick": 13,
+    "team": "Heat",
+    "player": "Labaron Philon Jr."
+  },
+  {
+    "source": "cbs_final",
+    "pick": 14,
+    "team": "Hornets",
+    "player": "Morez Johnson Jr."
+  },
+  {
+    "source": "cbs_final",
+    "pick": 15,
+    "team": "Bulls",
+    "player": "Hannes Steinbach"
+  },
+  {
+    "source": "cbs_final",
+    "pick": 16,
+    "team": "Grizzlies",
+    "player": "Dailyn Swain"
+  },
+  {
+    "source": "cbs_final",
+    "pick": 17,
+    "team": "Thunder",
+    "player": "Christian Anderson"
+  },
+  {
+    "source": "cbs_final",
+    "pick": 18,
+    "team": "Hornets",
+    "player": "Cameron Carr"
+  },
+  {
+    "source": "cbs_final",
+    "pick": 19,
+    "team": "Raptors",
+    "player": "Jayden Quaintance"
+  },
+  {
+    "source": "cbs_final",
+    "pick": 20,
+    "team": "Spurs",
+    "player": "Karim López"
+  },
+  {
+    "source": "cbs_final",
+    "pick": 21,
+    "team": "Pistons",
+    "player": "Bennett Stirtz"
+  },
+  {
+    "source": "cbs_final",
+    "pick": 22,
+    "team": "76ers",
+    "player": "Chris Cenac Jr."
+  },
+  {
+    "source": "cbs_final",
+    "pick": 23,
+    "team": "Hawks",
+    "player": "Tarris Reed Jr."
+  },
+  {
+    "source": "cbs_final",
+    "pick": 24,
+    "team": "Knicks",
+    "player": "Maleek Thomas"
+  },
+  {
+    "source": "cbs_final",
+    "pick": 25,
+    "team": "Lakers",
+    "player": "Allen Graves"
+  },
+  {
+    "source": "cbs_final",
+    "pick": 26,
+    "team": "Nuggets",
+    "player": "Ebuka Okorie"
+  },
+  {
+    "source": "cbs_final",
+    "pick": 27,
+    "team": "Celtics",
+    "player": "Henri Veesaar"
+  },
+  {
+    "source": "cbs_final",
+    "pick": 28,
+    "team": "Timberwolves",
+    "player": "Koa Peat"
+  },
+  {
+    "source": "cbs_final",
+    "pick": 29,
+    "team": "Cavaliers",
+    "player": "Joshua Jefferson"
+  },
+  {
+    "source": "cbs_final",
+    "pick": 30,
+    "team": "Mavericks",
+    "player": "Isaiah Evans"
+  },
+  {
+    "source": "espn",
+    "pick": 10,
+    "team": "",
+    "player": "AJ Dybantsa"
+  },
+  {
+    "source": "hoopshq",
+    "pick": 1,
+    "team": "",
+    "player": "AJ Dybantsa"
+  },
+  {
+    "source": "hoopshq",
+    "pick": 2,
+    "team": "",
+    "player": "Darryn Peterson"
+  },
+  {
+    "source": "hoopshq",
+    "pick": 3,
+    "team": "",
+    "player": "Cameron Boozer"
+  },
+  {
+    "source": "hoopshq",
+    "pick": 4,
+    "team": "",
+    "player": "Caleb Wilson"
+  },
+  {
+    "source": "hoopshq",
+    "pick": 5,
+    "team": "",
+    "player": "Mikel Brown Jr."
+  },
+  {
+    "source": "hoopshq",
+    "pick": 6,
+    "team": "",
+    "player": "Darius Acuff Jr."
+  },
+  {
+    "source": "hoopshq",
+    "pick": 7,
+    "team": "",
+    "player": "Kingston Flemings"
+  },
+  {
+    "source": "hoopshq",
+    "pick": 8,
+    "team": "",
+    "player": "Aday Mara"
+  },
+  {
+    "source": "hoopshq",
+    "pick": 9,
+    "team": "",
+    "player": "Keaton Wagler"
+  },
+  {
+    "source": "hoopshq",
+    "pick": 10,
+    "team": "",
+    "player": "Brayden Burries"
+  },
+  {
+    "source": "hoopshq",
+    "pick": 11,
+    "team": "",
+    "player": "Nate Ament"
+  },
+  {
+    "source": "hoopshq",
+    "pick": 12,
+    "team": "",
+    "player": "Yaxel Lendeborg"
+  },
+  {
+    "source": "hoopshq",
+    "pick": 13,
+    "team": "",
+    "player": "Labaron Philon Jr."
+  },
+  {
+    "source": "hoopshq",
+    "pick": 14,
+    "team": "",
+    "player": "Morez Johnson Jr."
+  },
+  {
+    "source": "nbadraftnet",
+    "pick": 1,
+    "team": "Clippers",
+    "player": "Darryn Peterson"
+  },
+  {
+    "source": "nbadraftnet",
+    "pick": 3,
+    "team": "Clippers",
+    "player": "Keaton Wagler"
+  },
+  {
+    "source": "nbadraftnet",
+    "pick": 6,
+    "team": "",
+    "player": "Hannes Steinbach"
+  },
+  {
+    "source": "nbadraftnet",
+    "pick": 7,
+    "team": "Kings",
+    "player": "Kingston Flemings"
+  },
+  {
+    "source": "nbadraftnet",
+    "pick": 8,
+    "team": "",
+    "player": "Koa Peat"
+  },
+  {
+    "source": "nbadraftnet",
+    "pick": 9,
+    "team": "Kings",
+    "player": "Karim López"
+  },
+  {
+    "source": "nbadraftnet",
+    "pick": 14,
+    "team": "",
+    "player": "Yaxel Lendeborg"
+  },
+  {
+    "source": "nbadraftnet",
+    "pick": 15,
+    "team": "",
+    "player": "Cameron Carr"
+  },
+  {
+    "source": "nbadraftnet",
+    "pick": 16,
+    "team": "",
+    "player": "Isaiah Evans"
+  },
+  {
+    "source": "nbadraftnet",
+    "pick": 17,
+    "team": "",
+    "player": "Christian Anderson"
+  },
+  {
+    "source": "nbadraftnet",
+    "pick": 20,
+    "team": "",
+    "player": "AJ Dybantsa"
+  },
+  {
+    "source": "nbadraftnet",
+    "pick": 21,
+    "team": "Lakers",
+    "player": "Dailyn Swain"
+  },
+  {
+    "source": "nbadraftnet",
+    "pick": 24,
+    "team": "Lakers",
+    "player": "Henri Veesaar"
+  },
+  {
+    "source": "nbadraftnet",
+    "pick": 26,
+    "team": "",
+    "player": "Jayden Quaintance"
+  },
+  {
+    "source": "netscouts",
+    "pick": 1,
+    "team": "",
+    "player": "AJ Dybantsa"
+  },
+  {
+    "source": "netscouts",
+    "pick": 2,
+    "team": "",
+    "player": "Darryn Peterson"
+  },
+  {
+    "source": "netscouts",
+    "pick": 3,
+    "team": "",
+    "player": "Cameron Boozer"
+  },
+  {
+    "source": "netscouts",
+    "pick": 4,
+    "team": "",
+    "player": "Caleb Wilson"
+  },
+  {
+    "source": "netscouts",
+    "pick": 5,
+    "team": "",
+    "player": "Keaton Wagler"
+  },
+  {
+    "source": "netscouts",
+    "pick": 6,
+    "team": "",
+    "player": "Darius Acuff Jr."
+  },
+  {
+    "source": "netscouts",
+    "pick": 7,
+    "team": "",
+    "player": "Mikel Brown Jr."
+  },
+  {
+    "source": "netscouts",
+    "pick": 8,
+    "team": "",
+    "player": "Aday Mara"
+  },
+  {
+    "source": "netscouts",
+    "pick": 9,
+    "team": "",
+    "player": "Kingston Flemings"
+  },
+  {
+    "source": "netscouts",
+    "pick": 10,
+    "team": "",
+    "player": "Brayden Burries"
+  },
+  {
+    "source": "netscouts",
+    "pick": 11,
+    "team": "",
+    "player": "Yaxel Lendeborg"
+  },
+  {
+    "source": "netscouts",
+    "pick": 12,
+    "team": "",
+    "player": "Nate Ament"
+  },
+  {
+    "source": "netscouts",
+    "pick": 13,
+    "team": "",
+    "player": "Labaron Philon Jr."
+  },
+  {
+    "source": "netscouts",
+    "pick": 14,
+    "team": "",
+    "player": "Morez Johnson Jr."
+  },
+  {
+    "source": "sb_nation",
+    "pick": 1,
+    "team": "",
+    "player": "AJ Dybantsa"
+  },
+  {
+    "source": "sb_nation",
+    "pick": 2,
+    "team": "",
+    "player": "Darryn Peterson"
+  },
+  {
+    "source": "sb_nation",
+    "pick": 3,
+    "team": "",
+    "player": "Cameron Boozer"
+  },
+  {
+    "source": "sb_nation",
+    "pick": 4,
+    "team": "",
+    "player": "Caleb Wilson"
+  },
+  {
+    "source": "sb_nation",
+    "pick": 5,
+    "team": "",
+    "player": "Keaton Wagler"
+  },
+  {
+    "source": "sb_nation",
+    "pick": 6,
+    "team": "",
+    "player": "Nate Ament"
+  },
+  {
+    "source": "sb_nation",
+    "pick": 7,
+    "team": "",
+    "player": "Darius Acuff Jr."
+  },
+  {
+    "source": "sb_nation",
+    "pick": 8,
+    "team": "",
+    "player": "Mikel Brown Jr."
+  },
+  {
+    "source": "sb_nation",
+    "pick": 9,
+    "team": "",
+    "player": "Brayden Burries"
+  },
+  {
+    "source": "sb_nation",
+    "pick": 10,
+    "team": "",
+    "player": "Labaron Philon Jr."
+  },
+  {
+    "source": "sb_nation",
+    "pick": 11,
+    "team": "",
+    "player": "Yaxel Lendeborg"
+  },
+  {
+    "source": "sb_nation",
+    "pick": 12,
+    "team": "",
+    "player": "Aday Mara"
+  },
+  {
+    "source": "sb_nation",
+    "pick": 13,
+    "team": "",
+    "player": "Karim López"
+  },
+  {
+    "source": "sb_nation",
+    "pick": 14,
+    "team": "",
+    "player": "Morez Johnson Jr."
+  },
+  {
+    "source": "tankathon",
+    "pick": 1,
+    "team": "",
+    "player": "AJ Dybantsa"
+  },
+  {
+    "source": "tankathon",
+    "pick": 3,
+    "team": "3",
+    "player": "Cameron Boozer"
+  },
+  {
+    "source": "tankathon",
+    "pick": 6,
+    "team": "3 Darius",
+    "player": "Darius Acuff Jr."
+  },
+  {
+    "source": "tankathon",
+    "pick": 7,
+    "team": "2",
+    "player": "Kingston Flemings"
+  },
+  {
+    "source": "tankathon",
+    "pick": 8,
+    "team": "1 Mikel",
+    "player": "Mikel Brown Jr."
+  },
+  {
+    "source": "tankathon",
+    "pick": 10,
+    "team": "",
+    "player": "Nate Ament"
+  },
+  {
+    "source": "tankathon",
+    "pick": 11,
+    "team": "",
+    "player": "Aday Mara"
+  },
+  {
+    "source": "tankathon",
+    "pick": 12,
+    "team": "",
+    "player": "Yaxel Lendeborg"
+  },
+  {
+    "source": "tankathon",
+    "pick": 13,
+    "team": "Labaron",
+    "player": "Labaron Philon Jr."
+  },
+  {
+    "source": "tankathon",
+    "pick": 14,
+    "team": "",
+    "player": "Cameron Carr"
+  },
+  {
+    "source": "tankathon",
+    "pick": 16,
+    "team": "",
+    "player": "Karim López"
+  },
+  {
+    "source": "tankathon",
+    "pick": 17,
+    "team": "",
+    "player": "Bennett Stirtz"
+  },
+  {
+    "source": "tankathon",
+    "pick": 18,
+    "team": "",
+    "player": "Hannes Steinbach"
+  },
+  {
+    "source": "tankathon",
+    "pick": 19,
+    "team": "",
+    "player": "Christian Anderson"
+  },
+  {
+    "source": "tankathon",
+    "pick": 21,
+    "team": "",
+    "player": "Ebuka Okorie"
+  },
+  {
+    "source": "tankathon",
+    "pick": 24,
+    "team": "",
+    "player": "Allen Graves"
+  },
+  {
+    "source": "tankathon",
+    "pick": 25,
+    "team": "",
+    "player": "Henri Veesaar"
+  },
+  {
+    "source": "tankathon",
+    "pick": 26,
+    "team": "",
+    "player": "Isaiah Evans"
+  },
+  {
+    "source": "tankathon",
+    "pick": 27,
+    "team": "",
+    "player": "Koa Peat"
+  },
+  {
+    "source": "tankathon",
+    "pick": 32,
+    "team": "",
+    "player": "Richie Saunders"
+  },
+  {
+    "source": "tankathon",
+    "pick": 33,
+    "team": "Tarris",
+    "player": "Tarris Reed Jr."
+  },
+  {
+    "source": "tankathon",
+    "pick": 34,
+    "team": "",
+    "player": "Ryan Conwell"
+  },
+  {
+    "source": "tankathon",
+    "pick": 35,
+    "team": "",
+    "player": "Baba Miller"
+  },
+  {
+    "source": "tankathon",
+    "pick": 36,
+    "team": "",
+    "player": "Zuby Ejiofor"
+  },
+  {
+    "source": "tankathon",
+    "pick": 37,
+    "team": "",
+    "player": "Ugonna Onyenso"
+  },
+  {
+    "source": "tankathon",
+    "pick": 38,
+    "team": "",
+    "player": "Jack Kayil"
+  },
+  {
+    "source": "tankathon",
+    "pick": 39,
+    "team": "",
+    "player": "Emanuel Sharp"
+  },
+  {
+    "source": "tankathon",
+    "pick": 40,
+    "team": "",
+    "player": "Jaden Bradley"
+  },
+  {
+    "source": "tankathon",
+    "pick": 41,
+    "team": "",
+    "player": "Trevon Brazile"
+  },
+  {
+    "source": "tankathon",
+    "pick": 42,
+    "team": "",
+    "player": "Ja'Kobi Gillespie"
+  },
+  {
+    "source": "tankathon",
+    "pick": 43,
+    "team": "",
+    "player": "Nick Martinelli"
+  },
+  {
+    "source": "tankathon",
+    "pick": 44,
+    "team": "",
+    "player": "Otega Oweh"
+  },
+  {
+    "source": "tankathon",
+    "pick": 45,
+    "team": "",
+    "player": "Dillon Mitchell"
+  },
+  {
+    "source": "tankathon",
+    "pick": 46,
+    "team": "",
+    "player": "Braden Smith"
+  },
+  {
+    "source": "tankathon",
+    "pick": 48,
+    "team": "",
+    "player": "Bruce Thornton"
+  },
+  {
+    "source": "tankathon",
+    "pick": 49,
+    "team": "",
+    "player": "Tyler Nickel"
+  },
+  {
+    "source": "tankathon",
+    "pick": 50,
+    "team": "",
+    "player": "Felix Okpara"
+  },
+  {
+    "source": "tankathon",
+    "pick": 51,
+    "team": "",
+    "player": "Maliq Brown"
+  },
+  {
+    "source": "tankathon",
+    "pick": 52,
+    "team": "",
+    "player": "Milos Uzan"
+  },
+  {
+    "source": "tankathon",
+    "pick": 53,
+    "team": "",
+    "player": "Kylan Boswell"
+  },
+  {
+    "source": "tankathon",
+    "pick": 54,
+    "team": "",
+    "player": "Tyler Bilodeau"
+  },
+  {
+    "source": "tankathon",
+    "pick": 55,
+    "team": "",
+    "player": "Tamin Lipsey"
+  },
+  {
+    "source": "tankathon",
+    "pick": 56,
+    "team": "",
+    "player": "Rafael Castro"
+  },
+  {
+    "source": "tankathon",
+    "pick": 57,
+    "team": "",
+    "player": "Tobi Lawal"
+  },
+  {
+    "source": "tankathon",
+    "pick": 58,
+    "team": "",
+    "player": "Keyshawn Hall"
+  },
+  {
+    "source": "tankathon",
+    "pick": 59,
+    "team": "",
+    "player": "Aaron Nkrumah"
+  },
+  {
+    "source": "usa_today_ftw",
+    "pick": 1,
+    "team": "",
+    "player": "AJ Dybantsa"
+  },
+  {
+    "source": "usa_today_ftw",
+    "pick": 2,
+    "team": "",
+    "player": "Cameron Boozer"
+  },
+  {
+    "source": "usa_today_ftw",
+    "pick": 3,
+    "team": "",
+    "player": "Darryn Peterson"
+  },
+  {
+    "source": "usa_today_ftw",
+    "pick": 4,
+    "team": "",
+    "player": "Caleb Wilson"
+  },
+  {
+    "source": "usa_today_ftw",
+    "pick": 5,
+    "team": "",
+    "player": "Keaton Wagler"
+  },
+  {
+    "source": "usa_today_ftw",
+    "pick": 6,
+    "team": "",
+    "player": "Mikel Brown Jr."
+  },
+  {
+    "source": "usa_today_ftw",
+    "pick": 7,
+    "team": "",
+    "player": "Darius Acuff Jr."
+  },
+  {
+    "source": "usa_today_ftw",
+    "pick": 8,
+    "team": "",
+    "player": "Brayden Burries"
+  },
+  {
+    "source": "usa_today_ftw",
+    "pick": 9,
+    "team": "",
+    "player": "Kingston Flemings"
+  },
+  {
+    "source": "usa_today_ftw",
+    "pick": 10,
+    "team": "",
+    "player": "Yaxel Lendeborg"
+  },
+  {
+    "source": "usa_today_ftw",
+    "pick": 11,
+    "team": "",
+    "player": "Karim López"
+  },
+  {
+    "source": "usa_today_ftw",
+    "pick": 12,
+    "team": "",
+    "player": "Nate Ament"
+  },
+  {
+    "source": "usa_today_ftw",
+    "pick": 13,
+    "team": "",
+    "player": "Hannes Steinbach"
+  },
+  {
+    "source": "usa_today_ftw",
+    "pick": 14,
+    "team": "",
+    "player": "Morez Johnson Jr."
+  }
+]

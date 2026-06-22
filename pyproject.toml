@@ -1,0 +1,13 @@
+[project]
+name = "nba-draft-intelligence-2026"
+version = "0.1.0"
+description = "Explainable NBA Draft prediction pipeline"
+requires-python = ">=3.10"
+
+[tool.ruff]
+line-length = 100
+src = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]

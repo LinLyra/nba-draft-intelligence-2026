@@ -1,0 +1,34 @@
+[
+  {
+    "source": "tankathon",
+    "weight": 1.5
+  },
+  {
+    "source": "cbs_final",
+    "weight": 1
+  },
+  {
+    "source": "bleacher",
+    "weight": 1.3
+  },
+  {
+    "source": "nbadraftnet",
+    "weight": 1.2
+  },
+  {
+    "source": "hoopshq",
+    "weight": 1
+  },
+  {
+    "source": "netscouts",
+    "weight": 1
+  },
+  {
+    "source": "sb_nation",
+    "weight": 0.9
+  },
+  {
+    "source": "usa_today_ftw",
+    "weight": 0.9
+  }
+]

@@ -1,0 +1,506 @@
+[
+  {
+    "player": "AJ Dybantsa",
+    "weighted_mean_pick": 3.590909090909091,
+    "trimmed_mean_pick": 1,
+    "std_pick": 6.283659363778403,
+    "source_count": 8,
+    "weighted_source_count": 8.8,
+    "consensus_score": 115
+  },
+  {
+    "player": "Darryn Peterson",
+    "weighted_mean_pick": 1.9499999999999995,
+    "trimmed_mean_pick": 2,
+    "std_pick": 0.5773502691896257,
+    "source_count": 6,
+    "weighted_source_count": 6.000000000000001,
+    "consensus_score": 110
+  },
+  {
+    "player": "Cameron Boozer",
+    "weighted_mean_pick": 2.8571428571428568,
+    "trimmed_mean_pick": 2.8333333333333335,
+    "std_pick": 0.3726779962499649,
+    "source_count": 6,
+    "weighted_source_count": 6.300000000000001,
+    "consensus_score": 109.16666666666667
+  },
+  {
+    "player": "Caleb Wilson",
+    "weighted_mean_pick": 4,
+    "trimmed_mean_pick": 4,
+    "std_pick": 0,
+    "source_count": 5,
+    "weighted_source_count": 4.8,
+    "consensus_score": 106
+  },
+  {
+    "player": "Keaton Wagler",
+    "weighted_mean_pick": 5.219178082191781,
+    "trimmed_mean_pick": 5,
+    "std_pick": 1.6659862556700857,
+    "source_count": 7,
+    "weighted_source_count": 7.300000000000001,
+    "consensus_score": 109
+  },
+  {
+    "player": "Darius Acuff Jr.",
+    "weighted_mean_pick": 6.2368421052631575,
+    "trimmed_mean_pick": 6.2,
+    "std_pick": 0.45175395145262565,
+    "source_count": 7,
+    "weighted_source_count": 7.6000000000000005,
+    "consensus_score": 107.8
+  },
+  {
+    "player": "Mikel Brown Jr.",
+    "weighted_mean_pick": 6.078947368421051,
+    "trimmed_mean_pick": 6.6,
+    "std_pick": 1.958758457257441,
+    "source_count": 7,
+    "weighted_source_count": 7.6000000000000005,
+    "consensus_score": 107.4
+  },
+  {
+    "player": "Kingston Flemings",
+    "weighted_mean_pick": 7.727272727272727,
+    "trimmed_mean_pick": 7.833333333333333,
+    "std_pick": 0.8975274678557507,
+    "source_count": 6,
+    "weighted_source_count": 6.6000000000000005,
+    "consensus_score": 104.16666666666667
+  },
+  {
+    "player": "Brayden Burries",
+    "weighted_mean_pick": 9.180327868852459,
+    "trimmed_mean_pick": 9.166666666666666,
+    "std_pick": 0.6871842709362768,
+    "source_count": 6,
+    "weighted_source_count": 6.1000000000000005,
+    "consensus_score": 102.83333333333333
+  },
+  {
+    "player": "Aday Mara",
+    "weighted_mean_pick": 9.029850746268657,
+    "trimmed_mean_pick": 9.166666666666666,
+    "std_pick": 2.852873794770615,
+    "source_count": 6,
+    "weighted_source_count": 6.7,
+    "consensus_score": 102.83333333333333
+  },
+  {
+    "player": "Nate Ament",
+    "weighted_mean_pick": 10.157894736842104,
+    "trimmed_mean_pick": 10.6,
+    "std_pick": 1.8844151368961313,
+    "source_count": 7,
+    "weighted_source_count": 7.6000000000000005,
+    "consensus_score": 103.4
+  },
+  {
+    "player": "Yaxel Lendeborg",
+    "weighted_mean_pick": 12.034090909090908,
+    "trimmed_mean_pick": 11.833333333333334,
+    "std_pick": 1.3635890143294642,
+    "source_count": 8,
+    "weighted_source_count": 8.8,
+    "consensus_score": 104.16666666666667
+  },
+  {
+    "player": "Hannes Steinbach",
+    "weighted_mean_pick": 13.239130434782608,
+    "trimmed_mean_pick": 13,
+    "std_pick": 4.415880433163924,
+    "source_count": 4,
+    "weighted_source_count": 4.6000000000000005,
+    "consensus_score": 95
+  },
+  {
+    "player": "Karim López",
+    "weighted_mean_pick": 13.338235294117647,
+    "trimmed_mean_pick": 13.333333333333334,
+    "std_pick": 3.6817870057290873,
+    "source_count": 6,
+    "weighted_source_count": 6.800000000000001,
+    "consensus_score": 98.66666666666667
+  },
+  {
+    "player": "Labaron Philon Jr.",
+    "weighted_mean_pick": 13.567164179104479,
+    "trimmed_mean_pick": 13.333333333333334,
+    "std_pick": 2.357022603955158,
+    "source_count": 6,
+    "weighted_source_count": 6.7,
+    "consensus_score": 98.66666666666667
+  },
+  {
+    "player": "Morez Johnson Jr.",
+    "weighted_mean_pick": 14.639344262295078,
+    "trimmed_mean_pick": 14.5,
+    "std_pick": 1.118033988749895,
+    "source_count": 6,
+    "weighted_source_count": 6.1000000000000005,
+    "consensus_score": 97.5
+  },
+  {
+    "player": "Cameron Carr",
+    "weighted_mean_pick": 14.780000000000001,
+    "trimmed_mean_pick": 15,
+    "std_pick": 1.8708286933869707,
+    "source_count": 4,
+    "weighted_source_count": 5,
+    "consensus_score": 93
+  },
+  {
+    "player": "Christian Anderson",
+    "weighted_mean_pick": 17.080000000000002,
+    "trimmed_mean_pick": 17,
+    "std_pick": 1.4142135623730951,
+    "source_count": 4,
+    "weighted_source_count": 5,
+    "consensus_score": 91
+  },
+  {
+    "player": "Bennett Stirtz",
+    "weighted_mean_pick": 18.6,
+    "trimmed_mean_pick": 19,
+    "std_pick": 2,
+    "source_count": 2,
+    "weighted_source_count": 2.5,
+    "consensus_score": 85
+  },
+  {
+    "player": "Dailyn Swain",
+    "weighted_mean_pick": 21.057142857142857,
+    "trimmed_mean_pick": 20.666666666666668,
+    "std_pick": 3.681787005729087,
+    "source_count": 3,
+    "weighted_source_count": 3.5,
+    "consensus_score": 85.33333333333333
+  },
+  {
+    "player": "Chris Cenac Jr.",
+    "weighted_mean_pick": 22.000000000000004,
+    "trimmed_mean_pick": 22,
+    "std_pick": 0,
+    "source_count": 2,
+    "weighted_source_count": 2.3,
+    "consensus_score": 82
+  },
+  {
+    "player": "Koa Peat",
+    "weighted_mean_pick": 22.64,
+    "trimmed_mean_pick": 22.5,
+    "std_pick": 8.381527307120106,
+    "source_count": 4,
+    "weighted_source_count": 5,
+    "consensus_score": 85.5
+  },
+  {
+    "player": "Jayden Quaintance",
+    "weighted_mean_pick": 22.88571428571429,
+    "trimmed_mean_pick": 22.666666666666668,
+    "std_pick": 2.8674417556808756,
+    "source_count": 3,
+    "weighted_source_count": 3.5,
+    "consensus_score": 83.33333333333333
+  },
+  {
+    "player": "Allen Graves",
+    "weighted_mean_pick": 22.894736842105264,
+    "trimmed_mean_pick": 23,
+    "std_pick": 2.160246899469287,
+    "source_count": 3,
+    "weighted_source_count": 3.8,
+    "consensus_score": 83
+  },
+  {
+    "player": "Ebuka Okorie",
+    "weighted_mean_pick": 23,
+    "trimmed_mean_pick": 23.5,
+    "std_pick": 2.5,
+    "source_count": 2,
+    "weighted_source_count": 2.5,
+    "consensus_score": 80.5
+  },
+  {
+    "player": "Maleek Thomas",
+    "weighted_mean_pick": 24,
+    "trimmed_mean_pick": 24,
+    "std_pick": 0,
+    "source_count": 1,
+    "weighted_source_count": 1,
+    "consensus_score": 78
+  },
+  {
+    "player": "Isaiah Evans",
+    "weighted_mean_pick": 24.92,
+    "trimmed_mean_pick": 25,
+    "std_pick": 5.385164807134504,
+    "source_count": 4,
+    "weighted_source_count": 5,
+    "consensus_score": 83
+  },
+  {
+    "player": "Henri Veesaar",
+    "weighted_mean_pick": 26.46,
+    "trimmed_mean_pick": 26.5,
+    "std_pick": 2.29128784747792,
+    "source_count": 4,
+    "weighted_source_count": 5,
+    "consensus_score": 81.5
+  },
+  {
+    "player": "Tarris Reed Jr.",
+    "weighted_mean_pick": 27.97368421052632,
+    "trimmed_mean_pick": 27.333333333333332,
+    "std_pick": 4.189935029992178,
+    "source_count": 3,
+    "weighted_source_count": 3.8,
+    "consensus_score": 78.66666666666667
+  },
+  {
+    "player": "Joshua Jefferson",
+    "weighted_mean_pick": 30.695652173913043,
+    "trimmed_mean_pick": 30.5,
+    "std_pick": 1.5,
+    "source_count": 2,
+    "weighted_source_count": 2.3,
+    "consensus_score": 73.5
+  },
+  {
+    "player": "Richie Saunders",
+    "weighted_mean_pick": 32,
+    "trimmed_mean_pick": 32,
+    "std_pick": 0,
+    "source_count": 1,
+    "weighted_source_count": 1.5,
+    "consensus_score": 70
+  },
+  {
+    "player": "Ryan Conwell",
+    "weighted_mean_pick": 34,
+    "trimmed_mean_pick": 34,
+    "std_pick": 0,
+    "source_count": 1,
+    "weighted_source_count": 1.5,
+    "consensus_score": 68
+  },
+  {
+    "player": "Baba Miller",
+    "weighted_mean_pick": 35,
+    "trimmed_mean_pick": 35,
+    "std_pick": 0,
+    "source_count": 1,
+    "weighted_source_count": 1.5,
+    "consensus_score": 67
+  },
+  {
+    "player": "Zuby Ejiofor",
+    "weighted_mean_pick": 36,
+    "trimmed_mean_pick": 36,
+    "std_pick": 0,
+    "source_count": 1,
+    "weighted_source_count": 1.5,
+    "consensus_score": 66
+  },
+  {
+    "player": "Ugonna Onyenso",
+    "weighted_mean_pick": 37,
+    "trimmed_mean_pick": 37,
+    "std_pick": 0,
+    "source_count": 1,
+    "weighted_source_count": 1.5,
+    "consensus_score": 65
+  },
+  {
+    "player": "Jack Kayil",
+    "weighted_mean_pick": 38,
+    "trimmed_mean_pick": 38,
+    "std_pick": 0,
+    "source_count": 1,
+    "weighted_source_count": 1.5,
+    "consensus_score": 64
+  },
+  {
+    "player": "Emanuel Sharp",
+    "weighted_mean_pick": 39,
+    "trimmed_mean_pick": 39,
+    "std_pick": 0,
+    "source_count": 1,
+    "weighted_source_count": 1.5,
+    "consensus_score": 63
+  },
+  {
+    "player": "Jaden Bradley",
+    "weighted_mean_pick": 40,
+    "trimmed_mean_pick": 40,
+    "std_pick": 0,
+    "source_count": 1,
+    "weighted_source_count": 1.5,
+    "consensus_score": 62
+  },
+  {
+    "player": "Trevon Brazile",
+    "weighted_mean_pick": 41,
+    "trimmed_mean_pick": 41,
+    "std_pick": 0,
+    "source_count": 1,
+    "weighted_source_count": 1.5,
+    "consensus_score": 61
+  },
+  {
+    "player": "Ja'Kobi Gillespie",
+    "weighted_mean_pick": 42,
+    "trimmed_mean_pick": 42,
+    "std_pick": 0,
+    "source_count": 1,
+    "weighted_source_count": 1.5,
+    "consensus_score": 60
+  },
+  {
+    "player": "Nick Martinelli",
+    "weighted_mean_pick": 43,
+    "trimmed_mean_pick": 43,
+    "std_pick": 0,
+    "source_count": 1,
+    "weighted_source_count": 1.5,
+    "consensus_score": 59
+  },
+  {
+    "player": "Otega Oweh",
+    "weighted_mean_pick": 44,
+    "trimmed_mean_pick": 44,
+    "std_pick": 0,
+    "source_count": 1,
+    "weighted_source_count": 1.5,
+    "consensus_score": 58
+  },
+  {
+    "player": "Dillon Mitchell",
+    "weighted_mean_pick": 45,
+    "trimmed_mean_pick": 45,
+    "std_pick": 0,
+    "source_count": 1,
+    "weighted_source_count": 1.5,
+    "consensus_score": 57
+  },
+  {
+    "player": "Braden Smith",
+    "weighted_mean_pick": 46,
+    "trimmed_mean_pick": 46,
+    "std_pick": 0,
+    "source_count": 1,
+    "weighted_source_count": 1.5,
+    "consensus_score": 56
+  },
+  {
+    "player": "Bruce Thornton",
+    "weighted_mean_pick": 48,
+    "trimmed_mean_pick": 48,
+    "std_pick": 0,
+    "source_count": 1,
+    "weighted_source_count": 1.5,
+    "consensus_score": 54
+  },
+  {
+    "player": "Tyler Nickel",
+    "weighted_mean_pick": 49,
+    "trimmed_mean_pick": 49,
+    "std_pick": 0,
+    "source_count": 1,
+    "weighted_source_count": 1.5,
+    "consensus_score": 53
+  },
+  {
+    "player": "Felix Okpara",
+    "weighted_mean_pick": 50,
+    "trimmed_mean_pick": 50,
+    "std_pick": 0,
+    "source_count": 1,
+    "weighted_source_count": 1.5,
+    "consensus_score": 52
+  },
+  {
+    "player": "Maliq Brown",
+    "weighted_mean_pick": 51,
+    "trimmed_mean_pick": 51,
+    "std_pick": 0,
+    "source_count": 1,
+    "weighted_source_count": 1.5,
+    "consensus_score": 51
+  },
+  {
+    "player": "Milos Uzan",
+    "weighted_mean_pick": 52,
+    "trimmed_mean_pick": 52,
+    "std_pick": 0,
+    "source_count": 1,
+    "weighted_source_count": 1.5,
+    "consensus_score": 50
+  },
+  {
+    "player": "Kylan Boswell",
+    "weighted_mean_pick": 53,
+    "trimmed_mean_pick": 53,
+    "std_pick": 0,
+    "source_count": 1,
+    "weighted_source_count": 1.5,
+    "consensus_score": 49
+  },
+  {
+    "player": "Tyler Bilodeau",
+    "weighted_mean_pick": 54,
+    "trimmed_mean_pick": 54,
+    "std_pick": 0,
+    "source_count": 1,
+    "weighted_source_count": 1.5,
+    "consensus_score": 48
+  },
+  {
+    "player": "Tamin Lipsey",
+    "weighted_mean_pick": 55,
+    "trimmed_mean_pick": 55,
+    "std_pick": 0,
+    "source_count": 1,
+    "weighted_source_count": 1.5,
+    "consensus_score": 47
+  },
+  {
+    "player": "Rafael Castro",
+    "weighted_mean_pick": 56,
+    "trimmed_mean_pick": 56,
+    "std_pick": 0,
+    "source_count": 1,
+    "weighted_source_count": 1.5,
+    "consensus_score": 46
+  },
+  {
+    "player": "Tobi Lawal",
+    "weighted_mean_pick": 57,
+    "trimmed_mean_pick": 57,
+    "std_pick": 0,
+    "source_count": 1,
+    "weighted_source_count": 1.5,
+    "consensus_score": 45
+  },
+  {
+    "player": "Keyshawn Hall",
+    "weighted_mean_pick": 58,
+    "trimmed_mean_pick": 58,
+    "std_pick": 0,
+    "source_count": 1,
+    "weighted_source_count": 1.5,
+    "consensus_score": 44
+  },
+  {
+    "player": "Aaron Nkrumah",
+    "weighted_mean_pick": 59,
+    "trimmed_mean_pick": 59,
+    "std_pick": 0,
+    "source_count": 1,
+    "weighted_source_count": 1.5,
+    "consensus_score": 43
+  }
+]

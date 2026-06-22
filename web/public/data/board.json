@@ -1,0 +1,212 @@
+[
+  {
+    "pick": 1,
+    "team": "Wizards",
+    "predicted_player": "AJ Dybantsa",
+    "probability": 0.99945,
+    "alternatives": "Darryn Peterson (0.1%); Cameron Boozer (0.0%)"
+  },
+  {
+    "pick": 2,
+    "team": "Jazz",
+    "predicted_player": "Darryn Peterson",
+    "probability": 0.9945,
+    "alternatives": "Cameron Boozer (0.5%); AJ Dybantsa (0.0%); Keaton Wagler (0.0%)"
+  },
+  {
+    "pick": 3,
+    "team": "Grizzlies",
+    "predicted_player": "Cameron Boozer",
+    "probability": 0.9889,
+    "alternatives": "Caleb Wilson (0.6%); Darryn Peterson (0.3%); Keaton Wagler (0.0%)"
+  },
+  {
+    "pick": 4,
+    "team": "Bulls",
+    "predicted_player": "Caleb Wilson",
+    "probability": 0.99325,
+    "alternatives": "Cameron Boozer (0.4%); Darius Acuff Jr. (0.1%); Darryn Peterson (0.1%)"
+  },
+  {
+    "pick": 5,
+    "team": "Clippers",
+    "predicted_player": "Keaton Wagler",
+    "probability": 0.6927,
+    "alternatives": "Darius Acuff Jr. (11.8%); Kingston Flemings (3.7%); Mikel Brown Jr. (2.6%)"
+  },
+  {
+    "pick": 6,
+    "team": "Nets",
+    "predicted_player": "Darius Acuff Jr.",
+    "probability": 0.68065,
+    "alternatives": "Kingston Flemings (8.6%); Mikel Brown Jr. (5.3%); Brayden Burries (3.2%)"
+  },
+  {
+    "pick": 7,
+    "team": "Kings",
+    "predicted_player": "Mikel Brown Jr.",
+    "probability": 0.42035,
+    "alternatives": "Kingston Flemings (27.1%); Brayden Burries (6.4%); Darius Acuff Jr. (5.5%)"
+  },
+  {
+    "pick": 8,
+    "team": "Hawks",
+    "predicted_player": "Kingston Flemings",
+    "probability": 0.4186,
+    "alternatives": "Brayden Burries (18.0%); Mikel Brown Jr. (11.4%); Aday Mara (7.4%)"
+  },
+  {
+    "pick": 9,
+    "team": "Mavericks",
+    "predicted_player": "Brayden Burries",
+    "probability": 0.5489,
+    "alternatives": "Yaxel Lendeborg (7.9%); Aday Mara (7.8%); Kingston Flemings (4.9%)"
+  },
+  {
+    "pick": 10,
+    "team": "Bucks",
+    "predicted_player": "Nate Ament",
+    "probability": 0.4742,
+    "alternatives": "Yaxel Lendeborg (15.8%); Aday Mara (5.8%); Brayden Burries (5.4%)"
+  },
+  {
+    "pick": 11,
+    "team": "Warriors",
+    "predicted_player": "Yaxel Lendeborg",
+    "probability": 0.36095,
+    "alternatives": "Karim López (8.2%); Morez Johnson Jr. (7.0%); Nate Ament (6.2%)"
+  },
+  {
+    "pick": 12,
+    "team": "Thunder",
+    "predicted_player": "Yaxel Lendeborg",
+    "probability": 0.20675,
+    "alternatives": "Nate Ament (11.5%); Morez Johnson Jr. (11.3%); Labaron Philon Jr. (6.9%)"
+  },
+  {
+    "pick": 13,
+    "team": "Heat",
+    "predicted_player": "Labaron Philon Jr.",
+    "probability": 0.4234,
+    "alternatives": "Morez Johnson Jr. (15.3%); Hannes Steinbach (5.7%); Karim López (5.5%)"
+  },
+  {
+    "pick": 14,
+    "team": "Hornets",
+    "predicted_player": "Morez Johnson Jr.",
+    "probability": 0.3474,
+    "alternatives": "Christian Anderson (9.0%); Cameron Carr (8.2%); Karim López (7.1%)"
+  },
+  {
+    "pick": 15,
+    "team": "Bulls",
+    "predicted_player": "Cameron Carr",
+    "probability": 0.12255,
+    "alternatives": "Christian Anderson (11.6%); Morez Johnson Jr. (7.4%); Karim López (6.0%)"
+  },
+  {
+    "pick": 16,
+    "team": "Grizzlies",
+    "predicted_player": "Christian Anderson",
+    "probability": 0.1762,
+    "alternatives": "Cameron Carr (6.8%); Bennett Stirtz (5.4%); Chris Cenac Jr. (5.1%)"
+  },
+  {
+    "pick": 17,
+    "team": "Thunder",
+    "predicted_player": "Christian Anderson",
+    "probability": 0.21335,
+    "alternatives": "Bennett Stirtz (6.6%); Dailyn Swain (5.8%); Koa Peat (5.1%)"
+  },
+  {
+    "pick": 18,
+    "team": "Hornets",
+    "predicted_player": "Bennett Stirtz",
+    "probability": 0.09805,
+    "alternatives": "Dailyn Swain (7.4%); Chris Cenac Jr. (6.0%); Tarris Reed Jr. (6.0%)"
+  },
+  {
+    "pick": 19,
+    "team": "Raptors",
+    "predicted_player": "Bennett Stirtz",
+    "probability": 0.12005,
+    "alternatives": "Dailyn Swain (7.5%); Joshua Jefferson (6.5%); Koa Peat (6.3%)"
+  },
+  {
+    "pick": 20,
+    "team": "Spurs",
+    "predicted_player": "Dailyn Swain",
+    "probability": 0.08145,
+    "alternatives": "Chris Cenac Jr. (7.2%); Richie Saunders (6.7%); Jayden Quaintance (6.7%)"
+  },
+  {
+    "pick": 21,
+    "team": "Pistons",
+    "predicted_player": "Chris Cenac Jr.",
+    "probability": 0.1277,
+    "alternatives": "Dailyn Swain (7.3%); Jayden Quaintance (7.1%); Allen Graves (7.0%)"
+  },
+  {
+    "pick": 22,
+    "team": "76ers",
+    "predicted_player": "Chris Cenac Jr.",
+    "probability": 0.28005,
+    "alternatives": "Jayden Quaintance (6.3%); Allen Graves (6.2%); Ebuka Okorie (5.3%)"
+  },
+  {
+    "pick": 23,
+    "team": "Hawks",
+    "predicted_player": "Maleek Thomas",
+    "probability": 0.10725,
+    "alternatives": "Allen Graves (9.0%); Ebuka Okorie (7.9%); Jayden Quaintance (7.3%)"
+  },
+  {
+    "pick": 24,
+    "team": "Knicks",
+    "predicted_player": "Maleek Thomas",
+    "probability": 0.3065,
+    "alternatives": "Ebuka Okorie (5.7%); Zuby Ejiofor (5.3%); Ryan Conwell (4.8%)"
+  },
+  {
+    "pick": 25,
+    "team": "Lakers",
+    "predicted_player": "Ugonna Onyenso",
+    "probability": 0.07625,
+    "alternatives": "Zuby Ejiofor (7.4%); Henri Veesaar (7.3%); Joshua Jefferson (6.6%)"
+  },
+  {
+    "pick": 26,
+    "team": "Nuggets",
+    "predicted_player": "Henri Veesaar",
+    "probability": 0.085,
+    "alternatives": "Joshua Jefferson (7.3%); Zuby Ejiofor (7.1%); Ugonna Onyenso (7.1%)"
+  },
+  {
+    "pick": 27,
+    "team": "Celtics",
+    "predicted_player": "Joshua Jefferson",
+    "probability": 0.0794,
+    "alternatives": "Emanuel Sharp (7.3%); Jack Kayil (7.1%); Henri Veesaar (7.1%)"
+  },
+  {
+    "pick": 28,
+    "team": "Timberwolves",
+    "predicted_player": "Joshua Jefferson",
+    "probability": 0.0901,
+    "alternatives": "Jaden Bradley (8.2%); Emanuel Sharp (7.1%); Jack Kayil (6.9%)"
+  },
+  {
+    "pick": 29,
+    "team": "Cavaliers",
+    "predicted_player": "Joshua Jefferson",
+    "probability": 0.111,
+    "alternatives": "Trevon Brazile (8.7%); Jaden Bradley (7.0%); Emanuel Sharp (6.9%)"
+  },
+  {
+    "pick": 30,
+    "team": "Mavericks",
+    "predicted_player": "Joshua Jefferson",
+    "probability": 0.11755,
+    "alternatives": "Ja'Kobi Gillespie (7.4%); Trevon Brazile (7.2%); Jaden Bradley (6.8%)"
+  }
+]

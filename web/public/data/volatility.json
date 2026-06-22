@@ -1,0 +1,394 @@
+[
+  {
+    "player": "Koa Peat",
+    "std_pick": 8.381527307120106,
+    "min_pick": 14,
+    "max_pick": 31,
+    "source_count": 4
+  },
+  {
+    "player": "AJ Dybantsa",
+    "std_pick": 6.283659363778403,
+    "min_pick": 1,
+    "max_pick": 7,
+    "source_count": 8
+  },
+  {
+    "player": "Isaiah Evans",
+    "std_pick": 5.385164807134504,
+    "min_pick": 20,
+    "max_pick": 30,
+    "source_count": 4
+  },
+  {
+    "player": "Hannes Steinbach",
+    "std_pick": 4.415880433163924,
+    "min_pick": 9,
+    "max_pick": 17,
+    "source_count": 4
+  },
+  {
+    "player": "Tarris Reed Jr.",
+    "std_pick": 4.189935029992178,
+    "min_pick": 23,
+    "max_pick": 32,
+    "source_count": 3
+  },
+  {
+    "player": "Karim López",
+    "std_pick": 3.6817870057290873,
+    "min_pick": 10,
+    "max_pick": 17,
+    "source_count": 6
+  },
+  {
+    "player": "Dailyn Swain",
+    "std_pick": 3.681787005729087,
+    "min_pick": 17,
+    "max_pick": 24,
+    "source_count": 3
+  },
+  {
+    "player": "Jayden Quaintance",
+    "std_pick": 2.8674417556808756,
+    "min_pick": 20,
+    "max_pick": 26,
+    "source_count": 3
+  },
+  {
+    "player": "Aday Mara",
+    "std_pick": 2.852873794770615,
+    "min_pick": 6,
+    "max_pick": 12,
+    "source_count": 6
+  },
+  {
+    "player": "Ebuka Okorie",
+    "std_pick": 2.5,
+    "min_pick": 21,
+    "max_pick": 26,
+    "source_count": 2
+  },
+  {
+    "player": "Labaron Philon Jr.",
+    "std_pick": 2.357022603955158,
+    "min_pick": 11,
+    "max_pick": 16,
+    "source_count": 6
+  },
+  {
+    "player": "Henri Veesaar",
+    "std_pick": 2.29128784747792,
+    "min_pick": 24,
+    "max_pick": 29,
+    "source_count": 4
+  },
+  {
+    "player": "Allen Graves",
+    "std_pick": 2.160246899469287,
+    "min_pick": 21,
+    "max_pick": 25,
+    "source_count": 3
+  },
+  {
+    "player": "Bennett Stirtz",
+    "std_pick": 2,
+    "min_pick": 17,
+    "max_pick": 21,
+    "source_count": 2
+  },
+  {
+    "player": "Mikel Brown Jr.",
+    "std_pick": 1.958758457257441,
+    "min_pick": 5,
+    "max_pick": 9,
+    "source_count": 7
+  },
+  {
+    "player": "Nate Ament",
+    "std_pick": 1.8844151368961313,
+    "min_pick": 9,
+    "max_pick": 12,
+    "source_count": 7
+  },
+  {
+    "player": "Cameron Carr",
+    "std_pick": 1.8708286933869707,
+    "min_pick": 13,
+    "max_pick": 17,
+    "source_count": 4
+  },
+  {
+    "player": "Keaton Wagler",
+    "std_pick": 1.6659862556700857,
+    "min_pick": 3,
+    "max_pick": 7,
+    "source_count": 7
+  },
+  {
+    "player": "Joshua Jefferson",
+    "std_pick": 1.5,
+    "min_pick": 29,
+    "max_pick": 32,
+    "source_count": 2
+  },
+  {
+    "player": "Christian Anderson",
+    "std_pick": 1.4142135623730951,
+    "min_pick": 16,
+    "max_pick": 18,
+    "source_count": 4
+  },
+  {
+    "player": "Yaxel Lendeborg",
+    "std_pick": 1.3635890143294642,
+    "min_pick": 10,
+    "max_pick": 13,
+    "source_count": 8
+  },
+  {
+    "player": "Morez Johnson Jr.",
+    "std_pick": 1.118033988749895,
+    "min_pick": 13,
+    "max_pick": 16,
+    "source_count": 6
+  },
+  {
+    "player": "Kingston Flemings",
+    "std_pick": 0.8975274678557507,
+    "min_pick": 7,
+    "max_pick": 9,
+    "source_count": 6
+  },
+  {
+    "player": "Brayden Burries",
+    "std_pick": 0.6871842709362768,
+    "min_pick": 8,
+    "max_pick": 10,
+    "source_count": 6
+  },
+  {
+    "player": "Darryn Peterson",
+    "std_pick": 0.5773502691896257,
+    "min_pick": 1,
+    "max_pick": 3,
+    "source_count": 6
+  },
+  {
+    "player": "Darius Acuff Jr.",
+    "std_pick": 0.45175395145262565,
+    "min_pick": 6,
+    "max_pick": 7,
+    "source_count": 7
+  },
+  {
+    "player": "Cameron Boozer",
+    "std_pick": 0.3726779962499649,
+    "min_pick": 2,
+    "max_pick": 3,
+    "source_count": 6
+  },
+  {
+    "player": "Caleb Wilson",
+    "std_pick": 0,
+    "min_pick": 4,
+    "max_pick": 4,
+    "source_count": 5
+  },
+  {
+    "player": "Chris Cenac Jr.",
+    "std_pick": 0,
+    "min_pick": 22,
+    "max_pick": 22,
+    "source_count": 2
+  },
+  {
+    "player": "Maleek Thomas",
+    "std_pick": 0,
+    "min_pick": 24,
+    "max_pick": 24,
+    "source_count": 1
+  },
+  {
+    "player": "Richie Saunders",
+    "std_pick": 0,
+    "min_pick": 32,
+    "max_pick": 32,
+    "source_count": 1
+  },
+  {
+    "player": "Ryan Conwell",
+    "std_pick": 0,
+    "min_pick": 34,
+    "max_pick": 34,
+    "source_count": 1
+  },
+  {
+    "player": "Baba Miller",
+    "std_pick": 0,
+    "min_pick": 35,
+    "max_pick": 35,
+    "source_count": 1
+  },
+  {
+    "player": "Zuby Ejiofor",
+    "std_pick": 0,
+    "min_pick": 36,
+    "max_pick": 36,
+    "source_count": 1
+  },
+  {
+    "player": "Ugonna Onyenso",
+    "std_pick": 0,
+    "min_pick": 37,
+    "max_pick": 37,
+    "source_count": 1
+  },
+  {
+    "player": "Jack Kayil",
+    "std_pick": 0,
+    "min_pick": 38,
+    "max_pick": 38,
+    "source_count": 1
+  },
+  {
+    "player": "Emanuel Sharp",
+    "std_pick": 0,
+    "min_pick": 39,
+    "max_pick": 39,
+    "source_count": 1
+  },
+  {
+    "player": "Jaden Bradley",
+    "std_pick": 0,
+    "min_pick": 40,
+    "max_pick": 40,
+    "source_count": 1
+  },
+  {
+    "player": "Trevon Brazile",
+    "std_pick": 0,
+    "min_pick": 41,
+    "max_pick": 41,
+    "source_count": 1
+  },
+  {
+    "player": "Ja'Kobi Gillespie",
+    "std_pick": 0,
+    "min_pick": 42,
+    "max_pick": 42,
+    "source_count": 1
+  },
+  {
+    "player": "Nick Martinelli",
+    "std_pick": 0,
+    "min_pick": 43,
+    "max_pick": 43,
+    "source_count": 1
+  },
+  {
+    "player": "Otega Oweh",
+    "std_pick": 0,
+    "min_pick": 44,
+    "max_pick": 44,
+    "source_count": 1
+  },
+  {
+    "player": "Dillon Mitchell",
+    "std_pick": 0,
+    "min_pick": 45,
+    "max_pick": 45,
+    "source_count": 1
+  },
+  {
+    "player": "Braden Smith",
+    "std_pick": 0,
+    "min_pick": 46,
+    "max_pick": 46,
+    "source_count": 1
+  },
+  {
+    "player": "Bruce Thornton",
+    "std_pick": 0,
+    "min_pick": 48,
+    "max_pick": 48,
+    "source_count": 1
+  },
+  {
+    "player": "Tyler Nickel",
+    "std_pick": 0,
+    "min_pick": 49,
+    "max_pick": 49,
+    "source_count": 1
+  },
+  {
+    "player": "Felix Okpara",
+    "std_pick": 0,
+    "min_pick": 50,
+    "max_pick": 50,
+    "source_count": 1
+  },
+  {
+    "player": "Maliq Brown",
+    "std_pick": 0,
+    "min_pick": 51,
+    "max_pick": 51,
+    "source_count": 1
+  },
+  {
+    "player": "Milos Uzan",
+    "std_pick": 0,
+    "min_pick": 52,
+    "max_pick": 52,
+    "source_count": 1
+  },
+  {
+    "player": "Kylan Boswell",
+    "std_pick": 0,
+    "min_pick": 53,
+    "max_pick": 53,
+    "source_count": 1
+  },
+  {
+    "player": "Tyler Bilodeau",
+    "std_pick": 0,
+    "min_pick": 54,
+    "max_pick": 54,
+    "source_count": 1
+  },
+  {
+    "player": "Tamin Lipsey",
+    "std_pick": 0,
+    "min_pick": 55,
+    "max_pick": 55,
+    "source_count": 1
+  },
+  {
+    "player": "Rafael Castro",
+    "std_pick": 0,
+    "min_pick": 56,
+    "max_pick": 56,
+    "source_count": 1
+  },
+  {
+    "player": "Tobi Lawal",
+    "std_pick": 0,
+    "min_pick": 57,
+    "max_pick": 57,
+    "source_count": 1
+  },
+  {
+    "player": "Keyshawn Hall",
+    "std_pick": 0,
+    "min_pick": 58,
+    "max_pick": 58,
+    "source_count": 1
+  },
+  {
+    "player": "Aaron Nkrumah",
+    "std_pick": 0,
+    "min_pick": 59,
+    "max_pick": 59,
+    "source_count": 1
+  }
+]

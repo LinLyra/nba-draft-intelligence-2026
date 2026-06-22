@@ -1,0 +1,45 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700&display=swap");
+
+:root {
+  --bg: #070b12;
+  --panel: #111827;
+  --line: #1f2937;
+  --text: #f3f4f6;
+  --muted: #9ca3af;
+  --accent: #f59e0b;
+}
+
+body {
+  background: radial-gradient(circle at top, #111827 0%, #070b12 45%, #05070d 100%);
+  color: var(--text);
+  font-family: Inter, system-ui, sans-serif;
+  min-height: 100vh;
+}
+
+.panel {
+  @apply rounded-2xl border border-line bg-panel/90 backdrop-blur;
+}
+
+.stat-label {
+  @apply text-xs uppercase tracking-wider text-gray-400;
+}
+
+.stat-value {
+  @apply text-lg font-semibold text-white;
+}
+
+.badge-low {
+  @apply rounded-full bg-emerald-500/15 px-2 py-0.5 text-xs text-emerald-300;
+}
+
+.badge-medium {
+  @apply rounded-full bg-amber-500/15 px-2 py-0.5 text-xs text-amber-300;
+}
+
+.badge-high {
+  @apply rounded-full bg-rose-500/15 px-2 py-0.5 text-xs text-rose-300;
+}

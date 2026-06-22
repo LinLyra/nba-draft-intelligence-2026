@@ -1,0 +1,212 @@
+[
+  {
+    "name": "AJ Dybantsa",
+    "slug": "aj-dybantsa",
+    "pick": 1,
+    "team": "Wizards",
+    "probability": 0.99945
+  },
+  {
+    "name": "Darryn Peterson",
+    "slug": "darryn-peterson",
+    "pick": 2,
+    "team": "Jazz",
+    "probability": 0.9945
+  },
+  {
+    "name": "Cameron Boozer",
+    "slug": "cameron-boozer",
+    "pick": 3,
+    "team": "Grizzlies",
+    "probability": 0.9889
+  },
+  {
+    "name": "Caleb Wilson",
+    "slug": "caleb-wilson",
+    "pick": 4,
+    "team": "Bulls",
+    "probability": 0.99325
+  },
+  {
+    "name": "Keaton Wagler",
+    "slug": "keaton-wagler",
+    "pick": 5,
+    "team": "Clippers",
+    "probability": 0.6927
+  },
+  {
+    "name": "Darius Acuff Jr.",
+    "slug": "darius-acuff-jr",
+    "pick": 6,
+    "team": "Nets",
+    "probability": 0.68065
+  },
+  {
+    "name": "Mikel Brown Jr.",
+    "slug": "mikel-brown-jr",
+    "pick": 7,
+    "team": "Kings",
+    "probability": 0.42035
+  },
+  {
+    "name": "Kingston Flemings",
+    "slug": "kingston-flemings",
+    "pick": 8,
+    "team": "Hawks",
+    "probability": 0.4186
+  },
+  {
+    "name": "Brayden Burries",
+    "slug": "brayden-burries",
+    "pick": 9,
+    "team": "Mavericks",
+    "probability": 0.5489
+  },
+  {
+    "name": "Nate Ament",
+    "slug": "nate-ament",
+    "pick": 10,
+    "team": "Bucks",
+    "probability": 0.4742
+  },
+  {
+    "name": "Yaxel Lendeborg",
+    "slug": "yaxel-lendeborg",
+    "pick": 11,
+    "team": "Warriors",
+    "probability": 0.36095
+  },
+  {
+    "name": "Yaxel Lendeborg",
+    "slug": "yaxel-lendeborg",
+    "pick": 12,
+    "team": "Thunder",
+    "probability": 0.20675
+  },
+  {
+    "name": "Labaron Philon Jr.",
+    "slug": "labaron-philon-jr",
+    "pick": 13,
+    "team": "Heat",
+    "probability": 0.4234
+  },
+  {
+    "name": "Morez Johnson Jr.",
+    "slug": "morez-johnson-jr",
+    "pick": 14,
+    "team": "Hornets",
+    "probability": 0.3474
+  },
+  {
+    "name": "Cameron Carr",
+    "slug": "cameron-carr",
+    "pick": 15,
+    "team": "Bulls",
+    "probability": 0.12255
+  },
+  {
+    "name": "Christian Anderson",
+    "slug": "christian-anderson",
+    "pick": 16,
+    "team": "Grizzlies",
+    "probability": 0.1762
+  },
+  {
+    "name": "Christian Anderson",
+    "slug": "christian-anderson",
+    "pick": 17,
+    "team": "Thunder",
+    "probability": 0.21335
+  },
+  {
+    "name": "Bennett Stirtz",
+    "slug": "bennett-stirtz",
+    "pick": 18,
+    "team": "Hornets",
+    "probability": 0.09805
+  },
+  {
+    "name": "Bennett Stirtz",
+    "slug": "bennett-stirtz",
+    "pick": 19,
+    "team": "Raptors",
+    "probability": 0.12005
+  },
+  {
+    "name": "Dailyn Swain",
+    "slug": "dailyn-swain",
+    "pick": 20,
+    "team": "Spurs",
+    "probability": 0.08145
+  },
+  {
+    "name": "Chris Cenac Jr.",
+    "slug": "chris-cenac-jr",
+    "pick": 21,
+    "team": "Pistons",
+    "probability": 0.1277
+  },
+  {
+    "name": "Chris Cenac Jr.",
+    "slug": "chris-cenac-jr",
+    "pick": 22,
+    "team": "76ers",
+    "probability": 0.28005
+  },
+  {
+    "name": "Maleek Thomas",
+    "slug": "maleek-thomas",
+    "pick": 23,
+    "team": "Hawks",
+    "probability": 0.10725
+  },
+  {
+    "name": "Maleek Thomas",
+    "slug": "maleek-thomas",
+    "pick": 24,
+    "team": "Knicks",
+    "probability": 0.3065
+  },
+  {
+    "name": "Ugonna Onyenso",
+    "slug": "ugonna-onyenso",
+    "pick": 25,
+    "team": "Lakers",
+    "probability": 0.07625
+  },
+  {
+    "name": "Henri Veesaar",
+    "slug": "henri-veesaar",
+    "pick": 26,
+    "team": "Nuggets",
+    "probability": 0.085
+  },
+  {
+    "name": "Joshua Jefferson",
+    "slug": "joshua-jefferson",
+    "pick": 27,
+    "team": "Celtics",
+    "probability": 0.0794
+  },
+  {
+    "name": "Joshua Jefferson",
+    "slug": "joshua-jefferson",
+    "pick": 28,
+    "team": "Timberwolves",
+    "probability": 0.0901
+  },
+  {
+    "name": "Joshua Jefferson",
+    "slug": "joshua-jefferson",
+    "pick": 29,
+    "team": "Cavaliers",
+    "probability": 0.111
+  },
+  {
+    "name": "Joshua Jefferson",
+    "slug": "joshua-jefferson",
+    "pick": 30,
+    "team": "Mavericks",
+    "probability": 0.11755
+  }
+]

@@ -1,0 +1,41 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+.pytest_cache/
+.ruff_cache/
+.mypy_cache/
+*.egg-info/
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# OS / IDE
+.DS_Store
+.ipynb_checkpoints/
+.idea/
+.vscode/
+
+# Private / large data (not published)
+data/raw/
+data/manual/
+data/interim/*
+!data/interim/.gitkeep
+data/processed/*
+!data/processed/.gitkeep
+
+# Generated reports (reproducible from scripts)
+reports/*.csv
+reports/*.html
+reports/*.pdf
+!reports/.gitkeep
+
+# Node / Next.js
+web/node_modules/
+web/.next/
+web/out/
+
+# Optional local caches
+*.log
