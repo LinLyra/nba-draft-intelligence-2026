@@ -19,7 +19,7 @@ const OUTPUTS = [
   "Volatility report",
   "Team fit scores",
   "Scenario simulation",
-  "Validation framework",
+  "Probability curves",
 ];
 
 export default function AboutPage() {

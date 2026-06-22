@@ -10,8 +10,7 @@ export default function HomePage() {
 
   return (
     <div className="space-y-10">
-      <section className="flex flex-col gap-6 md:flex-row md:items-end md:justify-between">
-        <div className="space-y-4">
+      <section className="space-y-4">
           <p className="text-sm uppercase tracking-[0.3em] text-amber-400">
             AI-Powered NBA Draft Intelligence Platform
           </p>
@@ -22,8 +21,6 @@ export default function HomePage() {
             Source-weighted consensus, betting market signals, team-fit optimization,
             and 20,000 Monte Carlo simulations — not a single deterministic ranking.
           </p>
-        </div>
-        <p className="shrink-0 font-signature text-4xl text-amber-400/90 md:text-5xl">LLyra</p>
       </section>
 
       <section>
