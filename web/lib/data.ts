@@ -2,6 +2,7 @@ import fs from "fs";
 import path from "path";
 
 export { slugify } from "./slug";
+export { volatilityLabel } from "./volatility";
 
 const DATA_DIR = path.join(process.cwd(), "public", "data");
 
@@ -125,12 +126,6 @@ export function getSourceWeights() {
 
 export function getPlayerIndex() {
   return readJson<PlayerIndexRow[]>("player_index.json");
-}
-
-export function volatilityLabel(std: number): "Low" | "Medium" | "High" {
-  if (std < 1.5) return "Low";
-  if (std < 3.5) return "Medium";
-  return "High";
 }
 
 export function pct(n: number): string {

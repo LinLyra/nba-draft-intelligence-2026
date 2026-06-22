@@ -1,61 +1,68 @@
 import Link from "next/link";
-import { getVolatility, slugify, volatilityLabel } from "@/lib/data";
+import { VolatilityBubbleChart } from "@/components/VolatilityBubbleChart";
+import { getConsensus, getVolatility, slugify, volatilityLabel } from "@/lib/data";
 
 export default function VolatilityPage() {
-  const rows = getVolatility().slice(0, 20);
+  const consensusMap = Object.fromEntries(getConsensus().map((c) => [c.player, c]));
+  const rows = getVolatility()
+    .map((v) => {
+      const c = consensusMap[v.player];
+      return {
+        player: v.player,
+        mean_pick: c?.trimmed_mean_pick ?? (v.min_pick + v.max_pick) / 2,
+        std_pick: v.std_pick,
+        source_count: v.source_count,
+        min_pick: v.min_pick,
+        max_pick: v.max_pick,
+      };
+    })
+    .filter((r) => r.mean_pick <= 35)
+    .slice(0, 40);
+
+  const topBoom = rows.slice(0, 8);
 
   return (
     <div className="space-y-8">
       <section>
-        <h1 className="text-4xl font-semibold text-white">Boom-or-Bust Prospects</h1>
+        <h1 className="font-display text-4xl font-bold text-white">Boom-or-Bust Chart</h1>
         <p className="mt-2 max-w-2xl text-gray-400">
-          Highest mock-draft volatility — where single-source spikes and source disagreement
-          create the widest pick ranges.
+          Mean pick vs mock-draft dispersion. Upper-right bubbles are high-upside,
+          high-uncertainty prospects — the picks front offices stress-test hardest.
         </p>
       </section>
 
-      <div className="panel overflow-hidden">
-        <table className="w-full text-sm">
-          <thead className="bg-white/5 text-left text-gray-400">
-            <tr>
-              <th className="px-4 py-3">Player</th>
-              <th className="px-4 py-3">Std Pick</th>
-              <th className="px-4 py-3">Range</th>
-              <th className="px-4 py-3">Sources</th>
-              <th className="px-4 py-3">Label</th>
-            </tr>
-          </thead>
-          <tbody>
-            {rows.map((r) => (
-              <tr key={r.player} className="border-t border-line hover:bg-white/5">
-                <td className="px-4 py-3">
-                  <Link href={`/players/${slugify(r.player)}`} className="font-medium text-white hover:text-amber-300">
-                    {r.player}
-                  </Link>
-                </td>
-                <td className="px-4 py-3 font-mono">{r.std_pick.toFixed(2)}</td>
-                <td className="px-4 py-3">
-                  #{r.min_pick} – #{r.max_pick}
-                </td>
-                <td className="px-4 py-3">{r.source_count}</td>
-                <td className="px-4 py-3">
-                  <span
-                    className={
-                      volatilityLabel(r.std_pick) === "High"
-                        ? "badge-high"
-                        : volatilityLabel(r.std_pick) === "Medium"
-                          ? "badge-medium"
-                          : "badge-low"
-                    }
-                  >
-                    {volatilityLabel(r.std_pick)}
-                  </span>
-                </td>
-              </tr>
-            ))}
-          </tbody>
-        </table>
-      </div>
+      <section className="panel p-5">
+        <VolatilityBubbleChart data={rows} />
+      </section>
+
+      <section className="panel p-5">
+        <h2 className="mb-4 text-lg font-semibold text-white">Highest Uncertainty</h2>
+        <div className="grid gap-2 sm:grid-cols-2 lg:grid-cols-4">
+          {topBoom.map((r) => (
+            <Link
+              key={r.player}
+              href={`/players/${slugify(r.player)}`}
+              className="rounded-lg border border-line px-3 py-3 transition hover:border-amber-500/40 hover:bg-white/5"
+            >
+              <p className="font-medium text-white">{r.player}</p>
+              <p className="mt-1 text-xs text-gray-500">
+                μ #{r.mean_pick.toFixed(1)} · σ {r.std_pick.toFixed(1)}
+              </p>
+              <span
+                className={
+                  volatilityLabel(r.std_pick) === "High"
+                    ? "badge-high mt-2 inline-block"
+                    : volatilityLabel(r.std_pick) === "Medium"
+                      ? "badge-medium mt-2 inline-block"
+                      : "badge-low mt-2 inline-block"
+                }
+              >
+                {volatilityLabel(r.std_pick)}
+              </span>
+            </Link>
+          ))}
+        </div>
+      </section>
     </div>
   );
 }
