@@ -1,20 +1,24 @@
 import Image from "next/image";
 import Link from "next/link";
+import { ConfidenceBadge } from "@/components/ConfidenceBadge";
 import { PlayerAvatar } from "@/components/PlayerAvatar";
 import { SchoolLogo } from "@/components/SchoolLogo";
 import { getPlayerMediaByName } from "@/lib/media";
 import { teamLogoUrl, teamSlug } from "@/lib/teams";
+import { confidenceGrade } from "@/lib/confidence";
 import { pct, slugify, volatilityLabel } from "@/lib/data";
-import type { BoardRow, ProspectRow } from "@/lib/data";
+import type { BoardRow, ConsensusRow, ProspectRow } from "@/lib/data";
 
 interface Props {
   row: BoardRow;
   stdPick?: number;
+  sourceCount?: number;
   prospect?: ProspectRow;
 }
 
-export function BoardCard({ row, stdPick, prospect }: Props) {
+export function BoardCard({ row, stdPick, sourceCount, prospect }: Props) {
   const vol = stdPick !== undefined ? volatilityLabel(stdPick) : null;
+  const grade = confidenceGrade(row.probability, stdPick ?? 2, sourceCount ?? 5);
   const slug = slugify(row.predicted_player);
   const media = getPlayerMediaByName(row.predicted_player);
   const school = media?.school ?? prospect?.school_or_league ?? null;
@@ -87,7 +91,9 @@ export function BoardCard({ row, stdPick, prospect }: Props) {
       </div>
       <Link href={`/players/${slug}`} className="text-right">
         <div className="text-2xl font-bold text-amber-300">{pct(row.probability)}</div>
-        <div className="text-xs text-gray-500">pick probability</div>
+        <div className="mt-1 flex items-center justify-end gap-2">
+          <ConfidenceBadge grade={grade} />
+        </div>
       </Link>
     </div>
   );

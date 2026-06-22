@@ -6,6 +6,7 @@ export default function HomePage() {
   const consensus = getConsensus();
   const prospectMap = Object.fromEntries(getProspects().map((p) => [p.player, p]));
   const stdMap = Object.fromEntries(consensus.map((c) => [c.player, c.std_pick]));
+  const srcMap = Object.fromEntries(consensus.map((c) => [c.player, c.source_count]));
 
   return (
     <div className="space-y-10">
@@ -33,6 +34,7 @@ export default function HomePage() {
               key={row.pick}
               row={row}
               stdPick={stdMap[row.predicted_player]}
+              sourceCount={srcMap[row.predicted_player]}
               prospect={prospectMap[row.predicted_player]}
             />
           ))}

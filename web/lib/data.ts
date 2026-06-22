@@ -1,6 +1,8 @@
 import fs from "fs";
 import path from "path";
 
+export { slugify } from "./slug";
+
 const DATA_DIR = path.join(process.cwd(), "public", "data");
 
 function readJson<T>(filename: string): T {
@@ -123,10 +125,6 @@ export function getSourceWeights() {
 
 export function getPlayerIndex() {
   return readJson<PlayerIndexRow[]>("player_index.json");
-}
-
-export function slugify(name: string): string {
-  return name.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/(^-|-$)/g, "");
 }
 
 export function volatilityLabel(std: number): "Low" | "Medium" | "High" {

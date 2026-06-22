@@ -7,7 +7,10 @@ const NAV = [
   { href: "/", label: "Board" },
   { href: "/simulator", label: "Simulator" },
   { href: "/volatility", label: "Volatility" },
+  { href: "/team-fit", label: "Team Fit" },
   { href: "/methodology", label: "Methodology" },
+  { href: "/validation", label: "Validation" },
+  { href: "/about", label: "About" },
 ];
 
 function navClass(active: boolean, mobile = false) {
@@ -22,7 +25,7 @@ function navClass(active: boolean, mobile = false) {
 export function DesktopNav() {
   const pathname = usePathname();
   return (
-    <nav className="hidden gap-6 md:flex">
+    <nav className="hidden gap-5 lg:flex">
       {NAV.map((item) => (
         <Link
           key={item.href}
@@ -39,7 +42,7 @@ export function DesktopNav() {
 export function MobileNav() {
   const pathname = usePathname();
   return (
-    <nav className="flex gap-2 overflow-x-auto pb-1 md:hidden">
+    <nav className="flex gap-2 overflow-x-auto pb-1 lg:hidden">
       {NAV.map((item) => (
         <Link
           key={item.href}

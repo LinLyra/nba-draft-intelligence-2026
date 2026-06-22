@@ -1,5 +1,6 @@
 import Link from "next/link";
 import { notFound } from "next/navigation";
+import { ConfidenceBadge } from "@/components/ConfidenceBadge";
 import { ArchetypeRadar } from "@/components/ArchetypeRadar";
 import { PlayerAvatar } from "@/components/PlayerAvatar";
 import { ProbBarChart } from "@/components/ProbBarChart";
@@ -17,6 +18,7 @@ import {
 } from "@/lib/data";
 import { getPlayerIndex } from "@/lib/data";
 import { getPlayerMediaBySlug } from "@/lib/media";
+import { confidenceGrade } from "@/lib/confidence";
 import { teamSlug } from "@/lib/teams";
 
 export function generateStaticParams() {
@@ -36,6 +38,13 @@ export default function PlayerPage({ params }: { params: { slug: string } }) {
   const fitRow = fits[0];
   const media = getPlayerMediaBySlug(params.slug);
   const school = media?.school ?? prospect?.school_or_league ?? null;
+  const confidence = consensus
+    ? confidenceGrade(
+        player.probability ?? probs[0]?.probability ?? 0,
+        consensus.std_pick,
+        consensus.source_count
+      )
+    : null;
 
   const radar = fitRow
     ? [
@@ -89,7 +98,10 @@ export default function PlayerPage({ params }: { params: { slug: string } }) {
               <div className="text-sm text-gray-400">Projected to</div>
               <div className="text-xl font-semibold">{player.team}</div>
               {player.probability && (
-                <div className="text-amber-300">{pct(player.probability)} at #{player.pick}</div>
+                <div className="flex items-center gap-2 text-amber-300">
+                  {pct(player.probability)} at #{player.pick}
+                  {confidence && <ConfidenceBadge grade={confidence} />}
+                </div>
               )}
             </div>
           </div>
@@ -115,6 +127,12 @@ export default function PlayerPage({ params }: { params: { slug: string } }) {
               <div>
                 <dt className="stat-label">Sources</dt>
                 <dd className="stat-value">{consensus.source_count}</dd>
+              </div>
+              <div>
+                <dt className="stat-label">Confidence</dt>
+                <dd className="stat-value">
+                  {confidence ? <ConfidenceBadge grade={confidence} /> : "—"}
+                </dd>
               </div>
               <div>
                 <dt className="stat-label">Volatility</dt>
