@@ -1,5 +1,7 @@
 # NBA Draft Intelligence System
 
+**Live demo:** [nba-draft-intelligence-2026.vercel.app](https://nba-draft-intelligence-2026.vercel.app/)
+
 Probabilistic NBA Draft forecasting for the 2026 class — multi-source consensus, betting markets, team-fit modeling, and Monte Carlo simulation, with a Next.js analytics frontend.
 
 ## What it is
@@ -22,8 +24,6 @@ cd web && npm install && npm run dev
 
 ## Deploy
 
-Vercel → import repo → **Root Directory:** `web`
+Production site: [https://nba-draft-intelligence-2026.vercel.app/](https://nba-draft-intelligence-2026.vercel.app/)
 
-## Author
-
-**LLyra** · [GitHub](https://github.com/LinLyra/nba-draft-intelligence-2026)
+To redeploy: Vercel → import repo → **Root Directory:** `web`
