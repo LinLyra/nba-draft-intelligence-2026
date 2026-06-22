@@ -36,7 +36,6 @@ Before each deploy (or in CI), run `node web/scripts/build-data.mjs` from the re
 | `/volatility` | Boom-or-bust prospects |
 | `/sources` | Source reliability weights |
 | `/methodology` | Pipeline + calibration |
-| `/about` | Project framing |
 
 ## Data
 

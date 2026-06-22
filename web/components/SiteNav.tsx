@@ -10,7 +10,6 @@ const NAV = [
   { href: "/team-fit", label: "Team Fit" },
   { href: "/probability", label: "Probability" },
   { href: "/methodology", label: "Methodology" },
-  { href: "/about", label: "About" },
 ];
 
 function navClass(active: boolean, mobile = false) {
